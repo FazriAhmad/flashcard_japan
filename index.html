@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flashcard Jepang - Game Belajar</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div id="app">
+        <header>
+            <div class="stats-container">
+                <div class="stat-item" id="health-container">
+                    <span class="icon">❤️</span>
+                    <span id="health-count">3</span>
+                </div>
+                <div class="stat-item" id="score-container">
+                    <span class="label">SCORE</span>
+                    <span id="score-count">0</span>
+                </div>
+            </div>
+            <div class="header-actions">
+                <button id="mode-toggle-btn" class="secondary-btn">JP → ID</button>
+            </div>
+        </header>
+
+        <main>
+            <div id="game-screen" class="screen">
+                <div class="flashcard-wrapper">
+                    <div class="flashcard" id="flashcard">
+                        <div class="flashcard-inner">
+                            <div class="flashcard-front">
+                                <span id="reading-text">...</span>
+                                <span id="display-text">...</span>
+                                <button id="play-audio-btn" class="audio-btn">🔊</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="options-container" class="options-grid">
+                    <!-- Tombol pilihan akan di-generate di sini -->
+                </div>
+            </div>
+
+            <div id="game-over-screen" class="screen hidden">
+                <h1>GAME OVER</h1>
+                <p>Skor Akhir Anda:</p>
+                <div id="final-score">0</div>
+                <button id="restart-btn" class="primary-btn">Main Lagi</button>
+            </div>
+        </main>
+    </div>
+    <script type="module" src="./src/main.js"></script>
+</body>
+</html>
