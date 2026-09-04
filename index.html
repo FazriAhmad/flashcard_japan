@@ -27,6 +27,7 @@
                 </div>
             </div>
             <div class="header-actions">
+                <button id="kana-nav-btn" class="secondary-btn" title="Belajar Huruf">あ Huruf</button>
                 <button id="mute-toggle-btn" class="secondary-btn" title="Toggle Audio">🔊</button>
                 <button id="mode-toggle-btn" class="secondary-btn">JP → ID</button>
             </div>
@@ -57,6 +58,46 @@
                 <div id="final-score">0</div>
                 <button id="restart-btn" class="primary-btn">Main Lagi</button>
             </div>
+
+            <!-- Belajar Huruf: Hiragana & Katakana -->
+            <div id="kana-screen" class="screen hidden">
+                <div class="kana-tabs">
+                    <div class="toggle-group" id="kana-script-toggle">
+                        <button class="toggle-btn active" data-script="hiragana">HIRAGANA</button>
+                        <button class="toggle-btn" data-script="katakana">KATAKANA</button>
+                    </div>
+                    <div class="toggle-group" id="kana-view-toggle">
+                        <button class="toggle-btn active" data-view="card">KARTU</button>
+                        <button class="toggle-btn" data-view="table">TABEL</button>
+                    </div>
+                </div>
+
+                <div class="kana-progress-row">
+                    <span id="kana-progress">1 / 46</span>
+                    <span id="kana-mastered-count">0 / 46 dikuasai</span>
+                </div>
+
+                <div id="kana-card-wrap" class="kana-card-wrap">
+                    <div id="kana-flashcard" class="kana-flashcard">
+                        <div class="kana-flashcard-inner">
+                            <div class="kana-flashcard-face kana-flashcard-front" id="kana-front">あ</div>
+                            <div class="kana-flashcard-face kana-flashcard-back" id="kana-back">a</div>
+                        </div>
+                    </div>
+                    <button type="button" id="kana-master-btn" class="kana-master-btn">TANDAI HAFAL</button>
+                    <div class="kana-controls">
+                        <button type="button" id="kana-prev" class="kana-ctrl-btn" aria-label="Sebelumnya">◀</button>
+                        <button type="button" id="kana-speak" class="kana-ctrl-btn" aria-label="Ucapkan">🔊</button>
+                        <button type="button" id="kana-shuffle" class="kana-ctrl-btn" aria-label="Acak">🔀</button>
+                        <button type="button" id="kana-next" class="kana-ctrl-btn" aria-label="Berikutnya">▶</button>
+                    </div>
+                    <p class="kana-hint">Klik kartu untuk membalik &amp; dengar pengucapan</p>
+                </div>
+
+                <div id="kana-table" class="kana-table"></div>
+
+                <button type="button" id="kana-back-btn" class="secondary-btn kana-return-btn">← Kembali ke Kuis</button>
+            </div>
         </main>
     </div>
     <footer class="footer">
@@ -71,6 +112,7 @@
     </footer>
 
     <script type="module" src="./src/main.js"></script>
+    <script type="module" src="./src/kana.js"></script>
 </body>
 
 </html>
