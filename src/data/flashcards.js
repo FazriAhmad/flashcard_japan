@@ -164,7 +164,7 @@ export const flashcards = [
   {
     "display": "〜形",
     "reading": "けい",
-    "meaning": "けい",
+    "meaning": "bentuk",
     "audio": "/audio_jepang/〜形【けい】.mp3",
     "type": "vocabulary"
   },
@@ -318,7 +318,7 @@ export const flashcards = [
   {
     "display": "〜系",
     "reading": "けい",
-    "meaning": "けい",
+    "meaning": "sistem/keturunan",
     "audio": "/audio_jepang/〜系【けい】.mp3",
     "type": "vocabulary"
   },
@@ -570,7 +570,7 @@ export const flashcards = [
   {
     "display": "お笑い",
     "reading": "おわらい",
-    "meaning": "おわらい",
+    "meaning": "Komedi",
     "audio": "/audio_jepang/お笑い【おわらい】.mp3",
     "type": "vocabulary"
   },
@@ -745,7 +745,7 @@ export const flashcards = [
   {
     "display": "アメリカ製",
     "reading": "あめりかせい",
-    "meaning": "あめりかせい",
+    "meaning": "Buatan Amerika",
     "audio": "/audio_jepang/アメリカ製【あめりかせい】.mp3",
     "type": "vocabulary"
   },
@@ -759,7 +759,7 @@ export const flashcards = [
   {
     "display": "エッフェル塔",
     "reading": "えっふぇるとう",
-    "meaning": "えっふぇるとう",
+    "meaning": "Menara Eiffel",
     "audio": "/audio_jepang/エッフェル塔【えっふぇるとう】.mp3",
     "type": "vocabulary"
   },
@@ -899,7 +899,7 @@ export const flashcards = [
   {
     "display": "一人称",
     "reading": "いちにんしょう",
-    "meaning": "いちにんしょう",
+    "meaning": "Kata ganti orang pertama",
     "audio": "/audio_jepang/一人称【いちにんしょう】.mp3",
     "type": "vocabulary"
   },
@@ -948,7 +948,7 @@ export const flashcards = [
   {
     "display": "一億円",
     "reading": "いちおくえん",
-    "meaning": "いちおくえん",
+    "meaning": "Seratus juta yen",
     "audio": "/audio_jepang/一億円【いちおくえん】.mp3",
     "type": "vocabulary"
   },
@@ -962,7 +962,7 @@ export const flashcards = [
   {
     "display": "一割",
     "reading": "いちわり",
-    "meaning": "いちわり",
+    "meaning": "Sepuluh persen",
     "audio": "/audio_jepang/一割【いちわり】.mp3",
     "type": "vocabulary"
   },
@@ -1158,7 +1158,7 @@ export const flashcards = [
   {
     "display": "一気",
     "reading": "いっき",
-    "meaning": "いっき",
+    "meaning": "Sekaligus / sekali napas",
     "audio": "/audio_jepang/一気【いっき】.mp3",
     "type": "vocabulary"
   },
@@ -1200,7 +1200,7 @@ export const flashcards = [
   {
     "display": "一番目",
     "reading": "いちばんめ",
-    "meaning": "いちばんめ",
+    "meaning": "Yang pertama",
     "audio": "/audio_jepang/一番目【いちばんめ】.mp3",
     "type": "vocabulary"
   },
@@ -1291,7 +1291,7 @@ export const flashcards = [
   {
     "display": "一階",
     "reading": "いっかい",
-    "meaning": "いっかい",
+    "meaning": "Lantai satu",
     "audio": "/audio_jepang/一階【いっかい】.mp3",
     "type": "vocabulary"
   },
@@ -1312,7 +1312,7 @@ export const flashcards = [
   {
     "display": "丁度いい",
     "reading": "ちょうどいい",
-    "meaning": "ちょうどいい",
+    "meaning": "Pas / tepat",
     "audio": "/audio_jepang/丁度いい【ちょうどいい】.mp3",
     "type": "vocabulary"
   },
@@ -1403,7 +1403,7 @@ export const flashcards = [
   {
     "display": "三世",
     "reading": "さんせい",
-    "meaning": "さんせい",
+    "meaning": "Generasi ketiga",
     "audio": "/audio_jepang/三世【さんせい】.mp3",
     "type": "vocabulary"
   },
@@ -1452,7 +1452,7 @@ export const flashcards = [
   {
     "display": "三百",
     "reading": "さんびゃく",
-    "meaning": "さんびゃく",
+    "meaning": "Tiga ratus",
     "audio": "/audio_jepang/三百【さんびゃく】.mp3",
     "type": "vocabulary"
   },
@@ -1550,7 +1550,7 @@ export const flashcards = [
   {
     "display": "上級",
     "reading": "じょうきゅう",
-    "meaning": "じょうきゅう",
+    "meaning": "Tingkat lanjut",
     "audio": "/audio_jepang/上級【じょうきゅう】.mp3",
     "type": "vocabulary"
   },
@@ -1634,7 +1634,7 @@ export const flashcards = [
   {
     "display": "下町",
     "reading": "したまち",
-    "meaning": "したまち",
+    "meaning": "Kota tua",
     "audio": "/audio_jepang/下町【したまち】.mp3",
     "type": "vocabulary"
   },
@@ -1690,7 +1690,7 @@ export const flashcards = [
   {
     "display": "不健康",
     "reading": "ふけんこう",
-    "meaning": "ふけんこう",
+    "meaning": "Tidak sehat",
     "audio": "/audio_jepang/不健康【ふけんこう】.mp3",
     "type": "vocabulary"
   },
@@ -1704,21 +1704,21 @@ export const flashcards = [
   {
     "display": "不可欠",
     "reading": "ふかけつ",
-    "meaning": "ふかけつ",
+    "meaning": "Tidak bisa tidak ada / esensial",
     "audio": "/audio_jepang/不可欠【ふかけつ】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "不可能",
     "reading": "ふかのう",
-    "meaning": "ふかのう",
+    "meaning": "Tidak mungkin",
     "audio": "/audio_jepang/不可能【ふかのう】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "不合格",
     "reading": "ふごうかく",
-    "meaning": "ふごうかく",
+    "meaning": "Tidak lulus",
     "audio": "/audio_jepang/不合格【ふごうかく】.mp3",
     "type": "vocabulary"
   },
@@ -1739,7 +1739,7 @@ export const flashcards = [
   {
     "display": "不器用",
     "reading": "ぶきよう",
-    "meaning": "ぶきよう",
+    "meaning": "Ceroboh / canggung",
     "audio": "/audio_jepang/不器用【ぶきよう】.mp3",
     "type": "vocabulary"
   },
@@ -1802,7 +1802,7 @@ export const flashcards = [
   {
     "display": "不愉快",
     "reading": "ふゆかい",
-    "meaning": "ふゆかい",
+    "meaning": "Tidak menyenangkan",
     "audio": "/audio_jepang/不愉快【ふゆかい】.mp3",
     "type": "vocabulary"
   },
@@ -1844,7 +1844,7 @@ export const flashcards = [
   {
     "display": "不機嫌",
     "reading": "ふきげん",
-    "meaning": "ふきげん",
+    "meaning": "Bad mood / cemberut",
     "audio": "/audio_jepang/不機嫌【ふきげん】.mp3",
     "type": "vocabulary"
   },
@@ -1872,7 +1872,7 @@ export const flashcards = [
   {
     "display": "不法",
     "reading": "ふほう",
-    "meaning": "ふほう",
+    "meaning": "Ilegal",
     "audio": "/audio_jepang/不法【ふほう】.mp3",
     "type": "vocabulary"
   },
@@ -1900,7 +1900,7 @@ export const flashcards = [
   {
     "display": "不眠症",
     "reading": "ふみんしょう",
-    "meaning": "ふみんしょう",
+    "meaning": "Insomnia",
     "audio": "/audio_jepang/不眠症【ふみんしょう】.mp3",
     "type": "vocabulary"
   },
@@ -1949,7 +1949,7 @@ export const flashcards = [
   {
     "display": "不規則",
     "reading": "ふきそく",
-    "meaning": "ふきそく",
+    "meaning": "Tidak teratur",
     "audio": "/audio_jepang/不規則【ふきそく】.mp3",
     "type": "vocabulary"
   },
@@ -2019,7 +2019,7 @@ export const flashcards = [
   {
     "display": "世界恐慌",
     "reading": "せかいきょうこう",
-    "meaning": "せかいきょうこう",
+    "meaning": "Depresi global",
     "audio": "/audio_jepang/世界恐慌【せかいきょうこう】.mp3",
     "type": "vocabulary"
   },
@@ -2082,7 +2082,7 @@ export const flashcards = [
   {
     "display": "両替",
     "reading": "りょうがえ",
-    "meaning": "りょうがえ",
+    "meaning": "Penukaran uang",
     "audio": "/audio_jepang/両替【りょうがえ】.mp3",
     "type": "vocabulary"
   },
@@ -2096,7 +2096,7 @@ export const flashcards = [
   {
     "display": "両者",
     "reading": "りょうしゃ",
-    "meaning": "りょうしゃ",
+    "meaning": "Kedua belah pihak",
     "audio": "/audio_jepang/両者【りょうしゃ】.mp3",
     "type": "vocabulary"
   },
@@ -2222,14 +2222,14 @@ export const flashcards = [
   {
     "display": "中旬",
     "reading": "ちゅうじゅん",
-    "meaning": "ちゅうじゅん",
+    "meaning": "Pertengahan bulan",
     "audio": "/audio_jepang/中旬【ちゅうじゅん】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "中東",
     "reading": "ちゅうとう",
-    "meaning": "ちゅうとう",
+    "meaning": "Timur Tengah",
     "audio": "/audio_jepang/中東【ちゅうとう】.mp3",
     "type": "vocabulary"
   },
@@ -2271,7 +2271,7 @@ export const flashcards = [
   {
     "display": "中華",
     "reading": "ちゅうか",
-    "meaning": "ちゅうか",
+    "meaning": "Masakan Tiongkok",
     "audio": "/audio_jepang/中華【ちゅうか】.mp3",
     "type": "vocabulary"
   },
@@ -2670,7 +2670,7 @@ export const flashcards = [
   {
     "display": "予測",
     "reading": "よそく",
-    "meaning": "よそく",
+    "meaning": "Prediksi",
     "audio": "/audio_jepang/予測【よそく】.mp3",
     "type": "vocabulary"
   },
@@ -2712,7 +2712,7 @@ export const flashcards = [
   {
     "display": "事典",
     "reading": "じてん",
-    "meaning": "じてん",
+    "meaning": "Ensiklopedia",
     "audio": "/audio_jepang/事典【じてん】.mp3",
     "type": "vocabulary"
   },
@@ -2775,7 +2775,7 @@ export const flashcards = [
   {
     "display": "二万",
     "reading": "にまん",
-    "meaning": "にまん",
+    "meaning": "Dua puluh ribu",
     "audio": "/audio_jepang/二万【にまん】.mp3",
     "type": "vocabulary"
   },
@@ -2796,7 +2796,7 @@ export const flashcards = [
   {
     "display": "二倍",
     "reading": "にばい",
-    "meaning": "にばい",
+    "meaning": "Dua kali lipat",
     "audio": "/audio_jepang/二倍【にばい】.mp3",
     "type": "vocabulary"
   },
@@ -2845,7 +2845,7 @@ export const flashcards = [
   {
     "display": "二日酔い",
     "reading": "ふつかよい",
-    "meaning": "ふつかよい",
+    "meaning": "Mabuk (sisa alkohol)",
     "audio": "/audio_jepang/二日酔い【ふつかよい】.mp3",
     "type": "vocabulary"
   },
@@ -3034,7 +3034,7 @@ export const flashcards = [
   {
     "display": "交互",
     "reading": "こうご",
-    "meaning": "こうご",
+    "meaning": "Bergantian",
     "audio": "/audio_jepang/交互【こうご】.mp3",
     "type": "vocabulary"
   },
@@ -3160,7 +3160,7 @@ export const flashcards = [
   {
     "display": "人数",
     "reading": "にんずう",
-    "meaning": "にんずう",
+    "meaning": "Jumlah orang",
     "audio": "/audio_jepang/人数【にんずう】.mp3",
     "type": "vocabulary"
   },
@@ -3174,7 +3174,7 @@ export const flashcards = [
   {
     "display": "人格",
     "reading": "じんかく",
-    "meaning": "じんかく",
+    "meaning": "Kepribadian",
     "audio": "/audio_jepang/人格【じんかく】.mp3",
     "type": "vocabulary"
   },
@@ -3356,7 +3356,7 @@ export const flashcards = [
   {
     "display": "今更",
     "reading": "いまさら",
-    "meaning": "いまさら",
+    "meaning": "Sekarang baru (terlambat)",
     "audio": "/audio_jepang/今更【いまさら】.mp3",
     "type": "vocabulary"
   },
@@ -3615,7 +3615,7 @@ export const flashcards = [
   {
     "display": "仮名",
     "reading": "かな",
-    "meaning": "かな",
+    "meaning": "Kana / nama samaran",
     "audio": "/audio_jepang/仮名【かな】.mp3",
     "type": "vocabulary"
   },
@@ -3643,7 +3643,7 @@ export const flashcards = [
   {
     "display": "仮面",
     "reading": "かめん",
-    "meaning": "かめん",
+    "meaning": "Topeng",
     "audio": "/audio_jepang/仮面【かめん】.mp3",
     "type": "vocabulary"
   },
@@ -3713,7 +3713,7 @@ export const flashcards = [
   {
     "display": "任意",
     "reading": "にんい",
-    "meaning": "にんい",
+    "meaning": "Sukarela / opsional",
     "audio": "/audio_jepang/任意【にんい】.mp3",
     "type": "vocabulary"
   },
@@ -4049,7 +4049,7 @@ export const flashcards = [
   {
     "display": "住人",
     "reading": "じゅうにん",
-    "meaning": "じゅうにん",
+    "meaning": "Penghuni",
     "audio": "/audio_jepang/住人【じゅうにん】.mp3",
     "type": "vocabulary"
   },
@@ -4084,7 +4084,7 @@ export const flashcards = [
   {
     "display": "体内",
     "reading": "たいない",
-    "meaning": "たいない",
+    "meaning": "Dalam tubuh",
     "audio": "/audio_jepang/体内【たいない】.mp3",
     "type": "vocabulary"
   },
@@ -4098,7 +4098,7 @@ export const flashcards = [
   {
     "display": "体操",
     "reading": "たいそう",
-    "meaning": "たいそう",
+    "meaning": "Senam",
     "audio": "/audio_jepang/体操【たいそう】.mp3",
     "type": "vocabulary"
   },
@@ -4252,7 +4252,7 @@ export const flashcards = [
   {
     "display": "余計",
     "reading": "よけい",
-    "meaning": "よけい",
+    "meaning": "Berlebihan",
     "audio": "/audio_jepang/余計【よけい】.mp3",
     "type": "vocabulary"
   },
@@ -4315,7 +4315,7 @@ export const flashcards = [
   {
     "display": "作用",
     "reading": "さよう",
-    "meaning": "さよう",
+    "meaning": "Efek / kerja (fungsi)",
     "audio": "/audio_jepang/作用【さよう】.mp3",
     "type": "vocabulary"
   },
@@ -4350,7 +4350,7 @@ export const flashcards = [
   {
     "display": "使い捨て",
     "reading": "つかいすて",
-    "meaning": "つかいすて",
+    "meaning": "Sekali pakai",
     "audio": "/audio_jepang/使い捨て【つかいすて】.mp3",
     "type": "vocabulary"
   },
@@ -4427,7 +4427,7 @@ export const flashcards = [
   {
     "display": "依然",
     "reading": "いぜん",
-    "meaning": "いぜん",
+    "meaning": "Masih tetap",
     "audio": "/audio_jepang/依然【いぜん】.mp3",
     "type": "vocabulary"
   },
@@ -4462,7 +4462,7 @@ export const flashcards = [
   {
     "display": "価値観",
     "reading": "かちかん",
-    "meaning": "かちかん",
+    "meaning": "Nilai-nilai (pandangan)",
     "audio": "/audio_jepang/価値観【かちかん】.mp3",
     "type": "vocabulary"
   },
@@ -4511,14 +4511,14 @@ export const flashcards = [
   {
     "display": "侵害",
     "reading": "しんがい",
-    "meaning": "しんがい",
+    "meaning": "Pelanggaran (hak)",
     "audio": "/audio_jepang/侵害【しんがい】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "侵攻",
     "reading": "しんこう",
-    "meaning": "しんこう",
+    "meaning": "Invasi",
     "audio": "/audio_jepang/侵攻【しんこう】.mp3",
     "type": "vocabulary"
   },
@@ -4546,14 +4546,14 @@ export const flashcards = [
   {
     "display": "便秘",
     "reading": "べんぴ",
-    "meaning": "べんぴ",
+    "meaning": "Sembelit",
     "audio": "/audio_jepang/便秘【べんぴ】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "係わる",
     "reading": "かかわる",
-    "meaning": "かかわる",
+    "meaning": "Berkaitan dengan",
     "audio": "/audio_jepang/係わる【かかわる】.mp3",
     "type": "vocabulary"
   },
@@ -4609,7 +4609,7 @@ export const flashcards = [
   {
     "display": "保守的",
     "reading": "ほしゅてき",
-    "meaning": "ほしゅてき",
+    "meaning": "Konservatif",
     "audio": "/audio_jepang/保守的【ほしゅてき】.mp3",
     "type": "vocabulary"
   },
@@ -4651,7 +4651,7 @@ export const flashcards = [
   {
     "display": "保障",
     "reading": "ほしょう",
-    "meaning": "ほしょう",
+    "meaning": "Jaminan",
     "audio": "/audio_jepang/保障【ほしょう】.mp3",
     "type": "vocabulary"
   },
@@ -4707,7 +4707,7 @@ export const flashcards = [
   {
     "display": "信託",
     "reading": "しんたく",
-    "meaning": "しんたく",
+    "meaning": "Kepercayaan / trust",
     "audio": "/audio_jepang/信託【しんたく】.mp3",
     "type": "vocabulary"
   },
@@ -4721,7 +4721,7 @@ export const flashcards = [
   {
     "display": "修士",
     "reading": "しゅうし",
-    "meaning": "しゅうし",
+    "meaning": "Gelar magister",
     "audio": "/audio_jepang/修士【しゅうし】.mp3",
     "type": "vocabulary"
   },
@@ -4805,7 +4805,7 @@ export const flashcards = [
   {
     "display": "個室",
     "reading": "こしつ",
-    "meaning": "こしつ",
+    "meaning": "Kamar pribadi",
     "audio": "/audio_jepang/個室【こしつ】.mp3",
     "type": "vocabulary"
   },
@@ -4847,7 +4847,7 @@ export const flashcards = [
   {
     "display": "候補者",
     "reading": "こうほしゃ",
-    "meaning": "こうほしゃ",
+    "meaning": "Kandidat",
     "audio": "/audio_jepang/候補者【こうほしゃ】.mp3",
     "type": "vocabulary"
   },
@@ -4868,7 +4868,7 @@ export const flashcards = [
   {
     "display": "借家",
     "reading": "しゃくや",
-    "meaning": "しゃくや",
+    "meaning": "Rumah sewa",
     "audio": "/audio_jepang/借家【しゃくや】.mp3",
     "type": "vocabulary"
   },
@@ -4882,7 +4882,7 @@ export const flashcards = [
   {
     "display": "借用",
     "reading": "しゃくよう",
-    "meaning": "しゃくよう",
+    "meaning": "Pinjaman",
     "audio": "/audio_jepang/借用【しゃくよう】.mp3",
     "type": "vocabulary"
   },
@@ -4924,7 +4924,7 @@ export const flashcards = [
   {
     "display": "倫理",
     "reading": "りんり",
-    "meaning": "りんり",
+    "meaning": "Etika",
     "audio": "/audio_jepang/倫理【りんり】.mp3",
     "type": "vocabulary"
   },
@@ -5029,7 +5029,7 @@ export const flashcards = [
   {
     "display": "健忘症",
     "reading": "けんぼうしょう",
-    "meaning": "けんぼうしょう",
+    "meaning": "Amnesia",
     "audio": "/audio_jepang/健忘症【けんぼうしょう】.mp3",
     "type": "vocabulary"
   },
@@ -5043,7 +5043,7 @@ export const flashcards = [
   {
     "display": "偶に",
     "reading": "たまに",
-    "meaning": "たまに",
+    "meaning": "Kadang-kadang",
     "audio": "/audio_jepang/偶に【たまに】.mp3",
     "type": "vocabulary"
   },
@@ -5064,7 +5064,7 @@ export const flashcards = [
   {
     "display": "偽る",
     "reading": "いつわる",
-    "meaning": "いつわる",
+    "meaning": "Berbohong / memalsukan",
     "audio": "/audio_jepang/偽る【いつわる】.mp3",
     "type": "vocabulary"
   },
@@ -5078,14 +5078,14 @@ export const flashcards = [
   {
     "display": "偽装",
     "reading": "ぎそう",
-    "meaning": "ぎそう",
+    "meaning": "Penyamaran",
     "audio": "/audio_jepang/偽装【ぎそう】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "偽造",
     "reading": "ぎぞう",
-    "meaning": "ぎぞう",
+    "meaning": "Pemalsuan",
     "audio": "/audio_jepang/偽造【ぎぞう】.mp3",
     "type": "vocabulary"
   },
@@ -5218,7 +5218,7 @@ export const flashcards = [
   {
     "display": "傷む",
     "reading": "いたむ",
-    "meaning": "いたむ",
+    "meaning": "Rusak / membusuk",
     "audio": "/audio_jepang/傷む【いたむ】.mp3",
     "type": "vocabulary"
   },
@@ -5379,7 +5379,7 @@ export const flashcards = [
   {
     "display": "元旦",
     "reading": "がんたん",
-    "meaning": "がんたん",
+    "meaning": "Tahun baru (1 Januari)",
     "audio": "/audio_jepang/元旦【がんたん】.mp3",
     "type": "vocabulary"
   },
@@ -5442,7 +5442,7 @@ export const flashcards = [
   {
     "display": "先々月",
     "reading": "せんせんげつ",
-    "meaning": "せんせんげつ",
+    "meaning": "Dua bulan lalu",
     "audio": "/audio_jepang/先々月【せんせんげつ】.mp3",
     "type": "vocabulary"
   },
@@ -5610,14 +5610,14 @@ export const flashcards = [
   {
     "display": "免疫",
     "reading": "めんえき",
-    "meaning": "めんえき",
+    "meaning": "Kekebalan tubuh",
     "audio": "/audio_jepang/免疫【めんえき】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "免税",
     "reading": "めんぜい",
-    "meaning": "めんぜい",
+    "meaning": "Bebas pajak",
     "audio": "/audio_jepang/免税【めんぜい】.mp3",
     "type": "vocabulary"
   },
@@ -5694,7 +5694,7 @@ export const flashcards = [
   {
     "display": "入団",
     "reading": "にゅうだん",
-    "meaning": "にゅうだん",
+    "meaning": "Bergabung dengan tim/klub",
     "audio": "/audio_jepang/入団【にゅうだん】.mp3",
     "type": "vocabulary"
   },
@@ -5715,7 +5715,7 @@ export const flashcards = [
   {
     "display": "入学試験",
     "reading": "にゅうがくしけん",
-    "meaning": "にゅうがくしけん",
+    "meaning": "Ujian masuk sekolah",
     "audio": "/audio_jepang/入学試験【にゅうがくしけん】.mp3",
     "type": "vocabulary"
   },
@@ -5736,7 +5736,7 @@ export const flashcards = [
   {
     "display": "入社",
     "reading": "にゅうしゃ",
-    "meaning": "にゅうしゃ",
+    "meaning": "Masuk kerja di perusahaan",
     "audio": "/audio_jepang/入社【にゅうしゃ】.mp3",
     "type": "vocabulary"
   },
@@ -5750,7 +5750,7 @@ export const flashcards = [
   {
     "display": "入門",
     "reading": "にゅうもん",
-    "meaning": "にゅうもん",
+    "meaning": "Pengantar (dasar)",
     "audio": "/audio_jepang/入門【にゅうもん】.mp3",
     "type": "vocabulary"
   },
@@ -5862,7 +5862,7 @@ export const flashcards = [
   {
     "display": "全般的",
     "reading": "ぜんぱんてき",
-    "meaning": "ぜんぱんてき",
+    "meaning": "Secara keseluruhan",
     "audio": "/audio_jepang/全般的【ぜんぱんてき】.mp3",
     "type": "vocabulary"
   },
@@ -5960,14 +5960,14 @@ export const flashcards = [
   {
     "display": "公用",
     "reading": "こうよう",
-    "meaning": "こうよう",
+    "meaning": "Keperluan dinas",
     "audio": "/audio_jepang/公用【こうよう】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "公益",
     "reading": "こうえき",
-    "meaning": "こうえき",
+    "meaning": "Kepentingan publik",
     "audio": "/audio_jepang/公益【こうえき】.mp3",
     "type": "vocabulary"
   },
@@ -6093,7 +6093,7 @@ export const flashcards = [
   {
     "display": "兵器",
     "reading": "へいき",
-    "meaning": "へいき",
+    "meaning": "Senjata",
     "audio": "/audio_jepang/兵器【へいき】.mp3",
     "type": "vocabulary"
   },
@@ -6121,7 +6121,7 @@ export const flashcards = [
   {
     "display": "兵隊",
     "reading": "へいたい",
-    "meaning": "へいたい",
+    "meaning": "Tentara",
     "audio": "/audio_jepang/兵隊【へいたい】.mp3",
     "type": "vocabulary"
   },
@@ -6240,7 +6240,7 @@ export const flashcards = [
   {
     "display": "円滑",
     "reading": "えんかつ",
-    "meaning": "えんかつ",
+    "meaning": "Lancar",
     "audio": "/audio_jepang/円滑【えんかつ】.mp3",
     "type": "vocabulary"
   },
@@ -6338,7 +6338,7 @@ export const flashcards = [
   {
     "display": "冠",
     "reading": "かん",
-    "meaning": "かん",
+    "meaning": "Mahkota",
     "audio": "/audio_jepang/冠【かん】.mp3",
     "type": "vocabulary"
   },
@@ -6485,7 +6485,7 @@ export const flashcards = [
   {
     "display": "凝る",
     "reading": "こる",
-    "meaning": "こる",
+    "meaning": "Pegal / tekun mendalami",
     "audio": "/audio_jepang/凝る【こる】.mp3",
     "type": "vocabulary"
   },
@@ -6646,7 +6646,7 @@ export const flashcards = [
   {
     "display": "出来上がる",
     "reading": "できあがる",
-    "meaning": "できあがる",
+    "meaning": "Selesai dibuat",
     "audio": "/audio_jepang/出来上がる【できあがる】.mp3",
     "type": "vocabulary"
   },
@@ -6674,7 +6674,7 @@ export const flashcards = [
   {
     "display": "出版社",
     "reading": "しゅっぱんしゃ",
-    "meaning": "しゅっぱんしゃ",
+    "meaning": "Penerbit",
     "audio": "/audio_jepang/出版社【しゅっぱんしゃ】.mp3",
     "type": "vocabulary"
   },
@@ -6723,7 +6723,7 @@ export const flashcards = [
   {
     "display": "刃物",
     "reading": "はもの",
-    "meaning": "はもの",
+    "meaning": "Senjata tajam",
     "audio": "/audio_jepang/刃物【はもの】.mp3",
     "type": "vocabulary"
   },
@@ -6765,7 +6765,7 @@ export const flashcards = [
   {
     "display": "分裂",
     "reading": "ぶんれつ",
-    "meaning": "ぶんれつ",
+    "meaning": "Perpecahan",
     "audio": "/audio_jepang/分裂【ぶんれつ】.mp3",
     "type": "vocabulary"
   },
@@ -6828,7 +6828,7 @@ export const flashcards = [
   {
     "display": "切腹",
     "reading": "せっぷく",
-    "meaning": "せっぷく",
+    "meaning": "Seppuku (bunuh diri ritual)",
     "audio": "/audio_jepang/切腹【せっぷく】.mp3",
     "type": "vocabulary"
   },
@@ -6877,14 +6877,14 @@ export const flashcards = [
   {
     "display": "刑期",
     "reading": "けいき",
-    "meaning": "けいき",
+    "meaning": "Masa hukuman",
     "audio": "/audio_jepang/刑期【けいき】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "刑罰",
     "reading": "けいばつ",
-    "meaning": "けいばつ",
+    "meaning": "Hukuman",
     "audio": "/audio_jepang/刑罰【けいばつ】.mp3",
     "type": "vocabulary"
   },
@@ -6919,14 +6919,14 @@ export const flashcards = [
   {
     "display": "初歩",
     "reading": "しょほ",
-    "meaning": "しょほ",
+    "meaning": "Dasar / permulaan",
     "audio": "/audio_jepang/初歩【しょほ】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "初版",
     "reading": "しょはん",
-    "meaning": "しょはん",
+    "meaning": "Cetakan pertama",
     "audio": "/audio_jepang/初版【しょはん】.mp3",
     "type": "vocabulary"
   },
@@ -7017,14 +7017,14 @@ export const flashcards = [
   {
     "display": "利く",
     "reading": "きく",
-    "meaning": "きく",
+    "meaning": "Mempan / berfungsi",
     "audio": "/audio_jepang/利く【きく】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "利息",
     "reading": "りそく",
-    "meaning": "りそく",
+    "meaning": "Bunga (uang)",
     "audio": "/audio_jepang/利息【りそく】.mp3",
     "type": "vocabulary"
   },
@@ -7073,7 +7073,7 @@ export const flashcards = [
   {
     "display": "刷る",
     "reading": "する",
-    "meaning": "する",
+    "meaning": "Mencetak",
     "audio": "/audio_jepang/刷る【する】.mp3",
     "type": "vocabulary"
   },
@@ -7115,7 +7115,7 @@ export const flashcards = [
   {
     "display": "削減",
     "reading": "さくげん",
-    "meaning": "さくげん",
+    "meaning": "Pengurangan",
     "audio": "/audio_jepang/削減【さくげん】.mp3",
     "type": "vocabulary"
   },
@@ -7297,14 +7297,14 @@ export const flashcards = [
   {
     "display": "創造力",
     "reading": "そうぞうりょく",
-    "meaning": "そうぞうりょく",
+    "meaning": "Daya kreativitas",
     "audio": "/audio_jepang/創造力【そうぞうりょく】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "創造的",
     "reading": "そうぞうてき",
-    "meaning": "そうぞうてき",
+    "meaning": "Kreatif",
     "audio": "/audio_jepang/創造的【そうぞうてき】.mp3",
     "type": "vocabulary"
   },
@@ -7318,7 +7318,7 @@ export const flashcards = [
   {
     "display": "劇団",
     "reading": "げきだん",
-    "meaning": "げきだん",
+    "meaning": "Kelompok teater",
     "audio": "/audio_jepang/劇団【げきだん】.mp3",
     "type": "vocabulary"
   },
@@ -7332,7 +7332,7 @@ export const flashcards = [
   {
     "display": "劇的",
     "reading": "げきてき",
-    "meaning": "げきてき",
+    "meaning": "Dramatis",
     "audio": "/audio_jepang/劇的【げきてき】.mp3",
     "type": "vocabulary"
   },
@@ -7353,7 +7353,7 @@ export const flashcards = [
   {
     "display": "功績",
     "reading": "こうせき",
-    "meaning": "こうせき",
+    "meaning": "Jasa / prestasi",
     "audio": "/audio_jepang/功績【こうせき】.mp3",
     "type": "vocabulary"
   },
@@ -7416,7 +7416,7 @@ export const flashcards = [
   {
     "display": "助力",
     "reading": "じょりょく",
-    "meaning": "じょりょく",
+    "meaning": "Bantuan",
     "audio": "/audio_jepang/助力【じょりょく】.mp3",
     "type": "vocabulary"
   },
@@ -7437,7 +7437,7 @@ export const flashcards = [
   {
     "display": "助詞",
     "reading": "じょし",
-    "meaning": "じょし",
+    "meaning": "Partikel (tata bahasa)",
     "audio": "/audio_jepang/助詞【じょし】.mp3",
     "type": "vocabulary"
   },
@@ -7591,7 +7591,7 @@ export const flashcards = [
   {
     "display": "勘",
     "reading": "かん",
-    "meaning": "かん",
+    "meaning": "Intuisi / firasat",
     "audio": "/audio_jepang/勘【かん】.mp3",
     "type": "vocabulary"
   },
@@ -7654,14 +7654,14 @@ export const flashcards = [
   {
     "display": "勝敗",
     "reading": "しょうはい",
-    "meaning": "しょうはい",
+    "meaning": "Menang-kalah",
     "audio": "/audio_jepang/勝敗【しょうはい】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "勝者",
     "reading": "しょうしゃ",
-    "meaning": "しょうしゃ",
+    "meaning": "Pemenang",
     "audio": "/audio_jepang/勝者【しょうしゃ】.mp3",
     "type": "vocabulary"
   },
@@ -7738,7 +7738,7 @@ export const flashcards = [
   {
     "display": "勧告",
     "reading": "かんこく",
-    "meaning": "かんこく",
+    "meaning": "Anjuran",
     "audio": "/audio_jepang/勧告【かんこく】.mp3",
     "type": "vocabulary"
   },
@@ -7857,14 +7857,14 @@ export const flashcards = [
   {
     "display": "北西",
     "reading": "ほくせい",
-    "meaning": "ほくせい",
+    "meaning": "Barat laut",
     "audio": "/audio_jepang/北西【ほくせい】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "匠",
     "reading": "たくみ",
-    "meaning": "たくみ",
+    "meaning": "Pengrajin ahli",
     "audio": "/audio_jepang/匠【たくみ】.mp3",
     "type": "vocabulary"
   },
@@ -7878,14 +7878,14 @@ export const flashcards = [
   {
     "display": "区分",
     "reading": "くぶん",
-    "meaning": "くぶん",
+    "meaning": "Pembagian / klasifikasi",
     "audio": "/audio_jepang/区分【くぶん】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "区域",
     "reading": "くいき",
-    "meaning": "くいき",
+    "meaning": "Wilayah",
     "audio": "/audio_jepang/区域【くいき】.mp3",
     "type": "vocabulary"
   },
@@ -7927,7 +7927,7 @@ export const flashcards = [
   {
     "display": "匿名",
     "reading": "とくめい",
-    "meaning": "とくめい",
+    "meaning": "Anonim",
     "audio": "/audio_jepang/匿名【とくめい】.mp3",
     "type": "vocabulary"
   },
@@ -8046,7 +8046,7 @@ export const flashcards = [
   {
     "display": "半径",
     "reading": "はんけい",
-    "meaning": "はんけい",
+    "meaning": "Radius (jari-jari)",
     "audio": "/audio_jepang/半径【はんけい】.mp3",
     "type": "vocabulary"
   },
@@ -8144,14 +8144,14 @@ export const flashcards = [
   {
     "display": "南口",
     "reading": "みなみぐち",
-    "meaning": "みなみぐち",
+    "meaning": "Pintu keluar selatan",
     "audio": "/audio_jepang/南口【みなみぐち】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "南東",
     "reading": "なんとう",
-    "meaning": "なんとう",
+    "meaning": "Tenggara",
     "audio": "/audio_jepang/南東【なんとう】.mp3",
     "type": "vocabulary"
   },
@@ -8200,7 +8200,7 @@ export const flashcards = [
   {
     "display": "単に",
     "reading": "たんに",
-    "meaning": "たんに",
+    "meaning": "Hanya sekadar",
     "audio": "/audio_jepang/単に【たんに】.mp3",
     "type": "vocabulary"
   },
@@ -8256,7 +8256,7 @@ export const flashcards = [
   {
     "display": "印",
     "reading": "しるし",
-    "meaning": "しるし",
+    "meaning": "Tanda",
     "audio": "/audio_jepang/印【しるし】.mp3",
     "type": "vocabulary"
   },
@@ -8270,7 +8270,7 @@ export const flashcards = [
   {
     "display": "印鑑",
     "reading": "いんかん",
-    "meaning": "いんかん",
+    "meaning": "Stempel",
     "audio": "/audio_jepang/印鑑【いんかん】.mp3",
     "type": "vocabulary"
   },
@@ -8410,7 +8410,7 @@ export const flashcards = [
   {
     "display": "原作",
     "reading": "げんさく",
-    "meaning": "げんさく",
+    "meaning": "Karya asli",
     "audio": "/audio_jepang/原作【げんさく】.mp3",
     "type": "vocabulary"
   },
@@ -8424,14 +8424,14 @@ export const flashcards = [
   {
     "display": "原型",
     "reading": "げんけい",
-    "meaning": "げんけい",
+    "meaning": "Prototipe",
     "audio": "/audio_jepang/原型【げんけい】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "原子",
     "reading": "げんし",
-    "meaning": "げんし",
+    "meaning": "Atom",
     "audio": "/audio_jepang/原子【げんし】.mp3",
     "type": "vocabulary"
   },
@@ -8536,7 +8536,7 @@ export const flashcards = [
   {
     "display": "参加者",
     "reading": "さんかしゃ",
-    "meaning": "さんかしゃ",
+    "meaning": "Peserta",
     "audio": "/audio_jepang/参加者【さんかしゃ】.mp3",
     "type": "vocabulary"
   },
@@ -8550,7 +8550,7 @@ export const flashcards = [
   {
     "display": "及び",
     "reading": "および",
-    "meaning": "および",
+    "meaning": "Dan / serta",
     "audio": "/audio_jepang/及び【および】.mp3",
     "type": "vocabulary"
   },
@@ -8620,7 +8620,7 @@ export const flashcards = [
   {
     "display": "反則",
     "reading": "はんそく",
-    "meaning": "はんそく",
+    "meaning": "Pelanggaran (aturan)",
     "audio": "/audio_jepang/反則【はんそく】.mp3",
     "type": "vocabulary"
   },
@@ -8676,7 +8676,7 @@ export const flashcards = [
   {
     "display": "収める",
     "reading": "おさめる",
-    "meaning": "おさめる",
+    "meaning": "Menyimpan / meraih",
     "audio": "/audio_jepang/収める【おさめる】.mp3",
     "type": "vocabulary"
   },
@@ -8739,14 +8739,14 @@ export const flashcards = [
   {
     "display": "取り扱う",
     "reading": "とりあつかう",
-    "meaning": "とりあつかう",
+    "meaning": "Menangani",
     "audio": "/audio_jepang/取り扱う【とりあつかう】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "取り敢えず",
     "reading": "とりあえず",
-    "meaning": "とりあえず",
+    "meaning": "Untuk sementara",
     "audio": "/audio_jepang/取り敢えず【とりあえず】.mp3",
     "type": "vocabulary"
   },
@@ -8879,14 +8879,14 @@ export const flashcards = [
   {
     "display": "口癖",
     "reading": "くちぐせ",
-    "meaning": "くちぐせ",
+    "meaning": "Kebiasaan bicara",
     "audio": "/audio_jepang/口癖【くちぐせ】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "口笛",
     "reading": "くちぶえ",
-    "meaning": "くちぶえ",
+    "meaning": "Bersiul",
     "audio": "/audio_jepang/口笛【くちぶえ】.mp3",
     "type": "vocabulary"
   },
@@ -8907,7 +8907,7 @@ export const flashcards = [
   {
     "display": "口調",
     "reading": "くちょう",
-    "meaning": "くちょう",
+    "meaning": "Nada bicara",
     "audio": "/audio_jepang/口調【くちょう】.mp3",
     "type": "vocabulary"
   },
@@ -8921,7 +8921,7 @@ export const flashcards = [
   {
     "display": "古典的",
     "reading": "こてんてき",
-    "meaning": "こてんてき",
+    "meaning": "Klasik",
     "audio": "/audio_jepang/古典的【こてんてき】.mp3",
     "type": "vocabulary"
   },
@@ -8956,7 +8956,7 @@ export const flashcards = [
   {
     "display": "叫び",
     "reading": "さけび",
-    "meaning": "さけび",
+    "meaning": "Teriakan",
     "audio": "/audio_jepang/叫び【さけび】.mp3",
     "type": "vocabulary"
   },
@@ -8977,7 +8977,7 @@ export const flashcards = [
   {
     "display": "召し上がる",
     "reading": "めしあがる",
-    "meaning": "めしあがる",
+    "meaning": "Makan (bahasa sopan)",
     "audio": "/audio_jepang/召し上がる【めしあがる】.mp3",
     "type": "vocabulary"
   },
@@ -9012,7 +9012,7 @@ export const flashcards = [
   {
     "display": "可哀想",
     "reading": "かわいそう",
-    "meaning": "かわいそう",
+    "meaning": "Kasihan",
     "audio": "/audio_jepang/可哀想【かわいそう】.mp3",
     "type": "vocabulary"
   },
@@ -9061,7 +9061,7 @@ export const flashcards = [
   {
     "display": "台詞",
     "reading": "せりふ",
-    "meaning": "せりふ",
+    "meaning": "Dialog / kata-kata",
     "audio": "/audio_jepang/台詞【せりふ】.mp3",
     "type": "vocabulary"
   },
@@ -9096,7 +9096,7 @@ export const flashcards = [
   {
     "display": "右利き",
     "reading": "みぎきき",
-    "meaning": "みぎきき",
+    "meaning": "Kidal kanan (dominan tangan kanan)",
     "audio": "/audio_jepang/右利き【みぎきき】.mp3",
     "type": "vocabulary"
   },
@@ -9145,14 +9145,14 @@ export const flashcards = [
   {
     "display": "各地",
     "reading": "かくち",
-    "meaning": "かくち",
+    "meaning": "Berbagai tempat",
     "audio": "/audio_jepang/各地【かくち】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "各自",
     "reading": "かくじ",
-    "meaning": "かくじ",
+    "meaning": "Masing-masing",
     "audio": "/audio_jepang/各自【かくじ】.mp3",
     "type": "vocabulary"
   },
@@ -9194,7 +9194,7 @@ export const flashcards = [
   {
     "display": "合格する",
     "reading": "ごうかくする",
-    "meaning": "ごうかくする",
+    "meaning": "Lulus (ujian)",
     "audio": "/audio_jepang/合格する【ごうかくする】.mp3",
     "type": "vocabulary"
   },
@@ -9243,7 +9243,7 @@ export const flashcards = [
   {
     "display": "同感",
     "reading": "どうかん",
-    "meaning": "どうかん",
+    "meaning": "Sependapat",
     "audio": "/audio_jepang/同感【どうかん】.mp3",
     "type": "vocabulary"
   },
@@ -9271,7 +9271,7 @@ export const flashcards = [
   {
     "display": "同盟",
     "reading": "どうめい",
-    "meaning": "どうめい",
+    "meaning": "Aliansi",
     "audio": "/audio_jepang/同盟【どうめい】.mp3",
     "type": "vocabulary"
   },
@@ -9292,7 +9292,7 @@ export const flashcards = [
   {
     "display": "名",
     "reading": "な",
-    "meaning": "な",
+    "meaning": "Nama",
     "audio": "/audio_jepang/名【な】.mp3",
     "type": "vocabulary"
   },
@@ -9327,7 +9327,7 @@ export const flashcards = [
   {
     "display": "名字",
     "reading": "みょうじ",
-    "meaning": "みょうじ",
+    "meaning": "Nama keluarga",
     "audio": "/audio_jepang/名字【みょうじ】.mp3",
     "type": "vocabulary"
   },
@@ -9341,7 +9341,7 @@ export const flashcards = [
   {
     "display": "名曲",
     "reading": "めいきょく",
-    "meaning": "めいきょく",
+    "meaning": "Lagu terkenal",
     "audio": "/audio_jepang/名曲【めいきょく】.mp3",
     "type": "vocabulary"
   },
@@ -9376,7 +9376,7 @@ export const flashcards = [
   {
     "display": "吐き出す",
     "reading": "はきだす",
-    "meaning": "はきだす",
+    "meaning": "Mengeluarkan (dari mulut)",
     "audio": "/audio_jepang/吐き出す【はきだす】.mp3",
     "type": "vocabulary"
   },
@@ -9404,7 +9404,7 @@ export const flashcards = [
   {
     "display": "向ける",
     "reading": "むける",
-    "meaning": "むける",
+    "meaning": "Mengarahkan",
     "audio": "/audio_jepang/向ける【むける】.mp3",
     "type": "vocabulary"
   },
@@ -9439,7 +9439,7 @@ export const flashcards = [
   {
     "display": "否",
     "reading": "いな",
-    "meaning": "いな",
+    "meaning": "Tidak",
     "audio": "/audio_jepang/否【いな】.mp3",
     "type": "vocabulary"
   },
@@ -9453,7 +9453,7 @@ export const flashcards = [
   {
     "display": "否定する",
     "reading": "ひていする",
-    "meaning": "ひていする",
+    "meaning": "Menyangkal",
     "audio": "/audio_jepang/否定する【ひていする】.mp3",
     "type": "vocabulary"
   },
@@ -9488,7 +9488,7 @@ export const flashcards = [
   {
     "display": "吸い殻",
     "reading": "すいがら",
-    "meaning": "すいがら",
+    "meaning": "Puntung rokok",
     "audio": "/audio_jepang/吸い殻【すいがら】.mp3",
     "type": "vocabulary"
   },
@@ -9572,7 +9572,7 @@ export const flashcards = [
   {
     "display": "呆れる",
     "reading": "あきれる",
-    "meaning": "あきれる",
+    "meaning": "Terheran-heran (kesal)",
     "audio": "/audio_jepang/呆れる【あきれる】.mp3",
     "type": "vocabulary"
   },
@@ -9607,7 +9607,7 @@ export const flashcards = [
   {
     "display": "告げる",
     "reading": "つげる",
-    "meaning": "つげる",
+    "meaning": "Memberitahukan",
     "audio": "/audio_jepang/告げる【つげる】.mp3",
     "type": "vocabulary"
   },
@@ -9621,7 +9621,7 @@ export const flashcards = [
   {
     "display": "告訴",
     "reading": "こくそ",
-    "meaning": "こくそ",
+    "meaning": "Tuntutan hukum",
     "audio": "/audio_jepang/告訴【こくそ】.mp3",
     "type": "vocabulary"
   },
@@ -9642,7 +9642,7 @@ export const flashcards = [
   {
     "display": "周年",
     "reading": "しゅうねん",
-    "meaning": "しゅうねん",
+    "meaning": "Ulang tahun (anniversary)",
     "audio": "/audio_jepang/周年【しゅうねん】.mp3",
     "type": "vocabulary"
   },
@@ -9698,7 +9698,7 @@ export const flashcards = [
   {
     "display": "呼ばれる",
     "reading": "よばれる",
-    "meaning": "よばれる",
+    "meaning": "Dipanggil",
     "audio": "/audio_jepang/呼ばれる【よばれる】.mp3",
     "type": "vocabulary"
   },
@@ -9747,7 +9747,7 @@ export const flashcards = [
   {
     "display": "和服",
     "reading": "わふく",
-    "meaning": "わふく",
+    "meaning": "Pakaian tradisional Jepang",
     "audio": "/audio_jepang/和服【わふく】.mp3",
     "type": "vocabulary"
   },
@@ -9782,7 +9782,7 @@ export const flashcards = [
   {
     "display": "哀れ",
     "reading": "あわれ",
-    "meaning": "あわれ",
+    "meaning": "Menyedihkan",
     "audio": "/audio_jepang/哀れ【あわれ】.mp3",
     "type": "vocabulary"
   },
@@ -9803,7 +9803,7 @@ export const flashcards = [
   {
     "display": "品",
     "reading": "ひん",
-    "meaning": "ひん",
+    "meaning": "Barang / martabat",
     "audio": "/audio_jepang/品【ひん】.mp3",
     "type": "vocabulary"
   },
@@ -9838,7 +9838,7 @@ export const flashcards = [
   {
     "display": "哲学者",
     "reading": "てつがくしゃ",
-    "meaning": "てつがくしゃ",
+    "meaning": "Filsuf",
     "audio": "/audio_jepang/哲学者【てつがくしゃ】.mp3",
     "type": "vocabulary"
   },
@@ -9859,7 +9859,7 @@ export const flashcards = [
   {
     "display": "唄",
     "reading": "うた",
-    "meaning": "うた",
+    "meaning": "Lagu",
     "audio": "/audio_jepang/唄【うた】.mp3",
     "type": "vocabulary"
   },
@@ -9908,7 +9908,7 @@ export const flashcards = [
   {
     "display": "唱える",
     "reading": "となえる",
-    "meaning": "となえる",
+    "meaning": "Melafalkan / mengusulkan",
     "audio": "/audio_jepang/唱える【となえる】.mp3",
     "type": "vocabulary"
   },
@@ -10034,7 +10034,7 @@ export const flashcards = [
   {
     "display": "喜劇",
     "reading": "きげき",
-    "meaning": "きげき",
+    "meaning": "Komedi",
     "audio": "/audio_jepang/喜劇【きげき】.mp3",
     "type": "vocabulary"
   },
@@ -10062,7 +10062,7 @@ export const flashcards = [
   {
     "display": "喪服",
     "reading": "もふく",
-    "meaning": "もふく",
+    "meaning": "Pakaian berkabung",
     "audio": "/audio_jepang/喪服【もふく】.mp3",
     "type": "vocabulary"
   },
@@ -10083,7 +10083,7 @@ export const flashcards = [
   {
     "display": "営む",
     "reading": "いとなむ",
-    "meaning": "いとなむ",
+    "meaning": "Menjalankan (usaha)",
     "audio": "/audio_jepang/営む【いとなむ】.mp3",
     "type": "vocabulary"
   },
@@ -10111,7 +10111,7 @@ export const flashcards = [
   {
     "display": "嘆く",
     "reading": "なげく",
-    "meaning": "なげく",
+    "meaning": "Meratapi",
     "audio": "/audio_jepang/嘆く【なげく】.mp3",
     "type": "vocabulary"
   },
@@ -10167,7 +10167,7 @@ export const flashcards = [
   {
     "display": "器用",
     "reading": "きよう",
-    "meaning": "きよう",
+    "meaning": "Terampil",
     "audio": "/audio_jepang/器用【きよう】.mp3",
     "type": "vocabulary"
   },
@@ -10265,7 +10265,7 @@ export const flashcards = [
   {
     "display": "四千",
     "reading": "よんせん",
-    "meaning": "よんせん",
+    "meaning": "Empat ribu",
     "audio": "/audio_jepang/四千【よんせん】.mp3",
     "type": "vocabulary"
   },
@@ -10342,7 +10342,7 @@ export const flashcards = [
   {
     "display": "回復する",
     "reading": "かいふくする",
-    "meaning": "かいふくする",
+    "meaning": "Pulih",
     "audio": "/audio_jepang/回復する【かいふくする】.mp3",
     "type": "vocabulary"
   },
@@ -10356,7 +10356,7 @@ export const flashcards = [
   {
     "display": "回想",
     "reading": "かいそう",
-    "meaning": "かいそう",
+    "meaning": "Kenangan",
     "audio": "/audio_jepang/回想【かいそう】.mp3",
     "type": "vocabulary"
   },
@@ -10377,14 +10377,14 @@ export const flashcards = [
   {
     "display": "回転する",
     "reading": "かいてんする",
-    "meaning": "かいてんする",
+    "meaning": "Berputar",
     "audio": "/audio_jepang/回転する【かいてんする】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "回転ずし",
     "reading": "かいてんずし",
-    "meaning": "かいてんずし",
+    "meaning": "Sushi berputar (conveyor belt)",
     "audio": "/audio_jepang/回転ずし【かいてんずし】.mp3",
     "type": "vocabulary"
   },
@@ -10398,7 +10398,7 @@ export const flashcards = [
   {
     "display": "団扇",
     "reading": "うちわ",
-    "meaning": "うちわ",
+    "meaning": "Kipas tangan",
     "audio": "/audio_jepang/団扇【うちわ】.mp3",
     "type": "vocabulary"
   },
@@ -10433,7 +10433,7 @@ export const flashcards = [
   {
     "display": "囲碁",
     "reading": "いご",
-    "meaning": "いご",
+    "meaning": "Permainan Go (papan)",
     "audio": "/audio_jepang/囲碁【いご】.mp3",
     "type": "vocabulary"
   },
@@ -10468,14 +10468,14 @@ export const flashcards = [
   {
     "display": "固まる",
     "reading": "かたまる",
-    "meaning": "かたまる",
+    "meaning": "Mengeras / membeku",
     "audio": "/audio_jepang/固まる【かたまる】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "固める",
     "reading": "かためる",
-    "meaning": "かためる",
+    "meaning": "Mengeraskan",
     "audio": "/audio_jepang/固める【かためる】.mp3",
     "type": "vocabulary"
   },
@@ -10496,7 +10496,7 @@ export const flashcards = [
   {
     "display": "国債",
     "reading": "こくさい",
-    "meaning": "こくさい",
+    "meaning": "Obligasi negara",
     "audio": "/audio_jepang/国債【こくさい】.mp3",
     "type": "vocabulary"
   },
@@ -10510,7 +10510,7 @@ export const flashcards = [
   {
     "display": "国宝",
     "reading": "こくほう",
-    "meaning": "こくほう",
+    "meaning": "Harta nasional",
     "audio": "/audio_jepang/国宝【こくほう】.mp3",
     "type": "vocabulary"
   },
@@ -10538,7 +10538,7 @@ export const flashcards = [
   {
     "display": "国王",
     "reading": "こくおう",
-    "meaning": "こくおう",
+    "meaning": "Raja",
     "audio": "/audio_jepang/国王【こくおう】.mp3",
     "type": "vocabulary"
   },
@@ -10552,7 +10552,7 @@ export const flashcards = [
   {
     "display": "国籍",
     "reading": "こくせき",
-    "meaning": "こくせき",
+    "meaning": "Kewarganegaraan",
     "audio": "/audio_jepang/国籍【こくせき】.mp3",
     "type": "vocabulary"
   },
@@ -10580,7 +10580,7 @@ export const flashcards = [
   {
     "display": "園",
     "reading": "えん",
-    "meaning": "えん",
+    "meaning": "Taman / kebun",
     "audio": "/audio_jepang/園【えん】.mp3",
     "type": "vocabulary"
   },
@@ -10629,7 +10629,7 @@ export const flashcards = [
   {
     "display": "土星",
     "reading": "どせい",
-    "meaning": "どせい",
+    "meaning": "Planet Saturnus",
     "audio": "/audio_jepang/土星【どせい】.mp3",
     "type": "vocabulary"
   },
@@ -10685,7 +10685,7 @@ export const flashcards = [
   {
     "display": "地",
     "reading": "ち",
-    "meaning": "ち",
+    "meaning": "Tanah / bumi",
     "audio": "/audio_jepang/地【ち】.mp3",
     "type": "vocabulary"
   },
@@ -10706,7 +10706,7 @@ export const flashcards = [
   {
     "display": "地下街",
     "reading": "ちかがい",
-    "meaning": "ちかがい",
+    "meaning": "Kompleks bawah tanah",
     "audio": "/audio_jepang/地下街【ちかがい】.mp3",
     "type": "vocabulary"
   },
@@ -10727,7 +10727,7 @@ export const flashcards = [
   {
     "display": "地中海",
     "reading": "ちちゅうかい",
-    "meaning": "ちちゅうかい",
+    "meaning": "Laut Mediterania",
     "audio": "/audio_jepang/地中海【ちちゅうかい】.mp3",
     "type": "vocabulary"
   },
@@ -10741,7 +10741,7 @@ export const flashcards = [
   {
     "display": "地区",
     "reading": "ちく",
-    "meaning": "ちく",
+    "meaning": "Distrik",
     "audio": "/audio_jepang/地区【ちく】.mp3",
     "type": "vocabulary"
   },
@@ -10762,7 +10762,7 @@ export const flashcards = [
   {
     "display": "地帯",
     "reading": "ちたい",
-    "meaning": "ちたい",
+    "meaning": "Zona / wilayah",
     "audio": "/audio_jepang/地帯【ちたい】.mp3",
     "type": "vocabulary"
   },
@@ -10776,7 +10776,7 @@ export const flashcards = [
   {
     "display": "地獄",
     "reading": "じごく",
-    "meaning": "じごく",
+    "meaning": "Neraka",
     "audio": "/audio_jepang/地獄【じごく】.mp3",
     "type": "vocabulary"
   },
@@ -10832,21 +10832,21 @@ export const flashcards = [
   {
     "display": "均等",
     "reading": "きんとう",
-    "meaning": "きんとう",
+    "meaning": "Setara",
     "audio": "/audio_jepang/均等【きんとう】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "均衡",
     "reading": "きんこう",
-    "meaning": "きんこう",
+    "meaning": "Keseimbangan",
     "audio": "/audio_jepang/均衡【きんこう】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "坊さん",
     "reading": "ぼうさん",
-    "meaning": "ぼうさん",
+    "meaning": "Bhikkhu / pendeta Buddha",
     "audio": "/audio_jepang/坊さん【ぼうさん】.mp3",
     "type": "vocabulary"
   },
@@ -10881,7 +10881,7 @@ export const flashcards = [
   {
     "display": "垂れる",
     "reading": "たれる",
-    "meaning": "たれる",
+    "meaning": "Menggantung / menetes",
     "audio": "/audio_jepang/垂れる【たれる】.mp3",
     "type": "vocabulary"
   },
@@ -10909,7 +10909,7 @@ export const flashcards = [
   {
     "display": "垣根",
     "reading": "かきね",
-    "meaning": "かきね",
+    "meaning": "Pagar tanaman",
     "audio": "/audio_jepang/垣根【かきね】.mp3",
     "type": "vocabulary"
   },
@@ -10923,7 +10923,7 @@ export const flashcards = [
   {
     "display": "埋める",
     "reading": "うめる",
-    "meaning": "うめる",
+    "meaning": "Mengubur / mengisi",
     "audio": "/audio_jepang/埋める【うめる】.mp3",
     "type": "vocabulary"
   },
@@ -10972,7 +10972,7 @@ export const flashcards = [
   {
     "display": "執筆",
     "reading": "しっぴつ",
-    "meaning": "しっぴつ",
+    "meaning": "Penulisan",
     "audio": "/audio_jepang/執筆【しっぴつ】.mp3",
     "type": "vocabulary"
   },
@@ -10986,7 +10986,7 @@ export const flashcards = [
   {
     "display": "培う",
     "reading": "つちかう",
-    "meaning": "つちかう",
+    "meaning": "Menumbuhkan (kemampuan)",
     "audio": "/audio_jepang/培う【つちかう】.mp3",
     "type": "vocabulary"
   },
@@ -11021,7 +11021,7 @@ export const flashcards = [
   {
     "display": "基盤",
     "reading": "きばん",
-    "meaning": "きばん",
+    "meaning": "Fondasi / basis",
     "audio": "/audio_jepang/基盤【きばん】.mp3",
     "type": "vocabulary"
   },
@@ -11035,7 +11035,7 @@ export const flashcards = [
   {
     "display": "埼玉県",
     "reading": "さいたまけん",
-    "meaning": "さいたまけん",
+    "meaning": "Prefektur Saitama",
     "audio": "/audio_jepang/埼玉県【さいたまけん】.mp3",
     "type": "vocabulary"
   },
@@ -11084,7 +11084,7 @@ export const flashcards = [
   {
     "display": "堤防",
     "reading": "ていぼう",
-    "meaning": "ていぼう",
+    "meaning": "Tanggul",
     "audio": "/audio_jepang/堤防【ていぼう】.mp3",
     "type": "vocabulary"
   },
@@ -11126,7 +11126,7 @@ export const flashcards = [
   {
     "display": "報酬",
     "reading": "ほうしゅう",
-    "meaning": "ほうしゅう",
+    "meaning": "Imbalan",
     "audio": "/audio_jepang/報酬【ほうしゅう】.mp3",
     "type": "vocabulary"
   },
@@ -11154,7 +11154,7 @@ export const flashcards = [
   {
     "display": "塀",
     "reading": "へい",
-    "meaning": "へい",
+    "meaning": "Tembok pagar",
     "audio": "/audio_jepang/塀【へい】.mp3",
     "type": "vocabulary"
   },
@@ -11182,7 +11182,7 @@ export const flashcards = [
   {
     "display": "塊",
     "reading": "かたまり",
-    "meaning": "かたまり",
+    "meaning": "Gumpalan",
     "audio": "/audio_jepang/塊【かたまり】.mp3",
     "type": "vocabulary"
   },
@@ -11217,7 +11217,7 @@ export const flashcards = [
   {
     "display": "塗料",
     "reading": "とりょう",
-    "meaning": "とりょう",
+    "meaning": "Cat / pelapis",
     "audio": "/audio_jepang/塗料【とりょう】.mp3",
     "type": "vocabulary"
   },
@@ -11245,21 +11245,21 @@ export const flashcards = [
   {
     "display": "塩味",
     "reading": "しおあじ",
-    "meaning": "しおあじ",
+    "meaning": "Rasa asin",
     "audio": "/audio_jepang/塩味【しおあじ】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "塩水",
     "reading": "しおみず",
-    "meaning": "しおみず",
+    "meaning": "Air garam",
     "audio": "/audio_jepang/塩水【しおみず】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "塾",
     "reading": "じゅく",
-    "meaning": "じゅく",
+    "meaning": "Bimbingan belajar",
     "audio": "/audio_jepang/塾【じゅく】.mp3",
     "type": "vocabulary"
   },
@@ -11273,7 +11273,7 @@ export const flashcards = [
   {
     "display": "境",
     "reading": "さかい",
-    "meaning": "さかい",
+    "meaning": "Batas",
     "audio": "/audio_jepang/境【さかい】.mp3",
     "type": "vocabulary"
   },
@@ -11301,7 +11301,7 @@ export const flashcards = [
   {
     "display": "墓地",
     "reading": "ぼち",
-    "meaning": "ぼち",
+    "meaning": "Pemakaman",
     "audio": "/audio_jepang/墓地【ぼち】.mp3",
     "type": "vocabulary"
   },
@@ -11329,7 +11329,7 @@ export const flashcards = [
   {
     "display": "増す",
     "reading": "ます",
-    "meaning": "ます",
+    "meaning": "Bertambah",
     "audio": "/audio_jepang/増す【ます】.mp3",
     "type": "vocabulary"
   },
@@ -11350,7 +11350,7 @@ export const flashcards = [
   {
     "display": "増税",
     "reading": "ぞうぜい",
-    "meaning": "ぞうぜい",
+    "meaning": "Kenaikan pajak",
     "audio": "/audio_jepang/増税【ぞうぜい】.mp3",
     "type": "vocabulary"
   },
@@ -11392,7 +11392,7 @@ export const flashcards = [
   {
     "display": "壁紙",
     "reading": "かべがみ",
-    "meaning": "かべがみ",
+    "meaning": "Wallpaper",
     "audio": "/audio_jepang/壁紙【かべがみ】.mp3",
     "type": "vocabulary"
   },
@@ -11434,7 +11434,7 @@ export const flashcards = [
   {
     "display": "壮大",
     "reading": "そうだい",
-    "meaning": "そうだい",
+    "meaning": "Megah",
     "audio": "/audio_jepang/壮大【そうだい】.mp3",
     "type": "vocabulary"
   },
@@ -11469,14 +11469,14 @@ export const flashcards = [
   {
     "display": "売り切れ",
     "reading": "うりきれ",
-    "meaning": "うりきれ",
+    "meaning": "Terjual habis",
     "audio": "/audio_jepang/売り切れ【うりきれ】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "売り手",
     "reading": "うりて",
-    "meaning": "うりて",
+    "meaning": "Penjual",
     "audio": "/audio_jepang/売り手【うりて】.mp3",
     "type": "vocabulary"
   },
@@ -11546,7 +11546,7 @@ export const flashcards = [
   {
     "display": "変換",
     "reading": "へんかん",
-    "meaning": "へんかん",
+    "meaning": "Konversi",
     "audio": "/audio_jepang/変換【へんかん】.mp3",
     "type": "vocabulary"
   },
@@ -11560,14 +11560,14 @@ export const flashcards = [
   {
     "display": "変死",
     "reading": "へんし",
-    "meaning": "へんし",
+    "meaning": "Kematian tidak wajar",
     "audio": "/audio_jepang/変死【へんし】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "変装",
     "reading": "へんそう",
-    "meaning": "へんそう",
+    "meaning": "Penyamaran",
     "audio": "/audio_jepang/変装【へんそう】.mp3",
     "type": "vocabulary"
   },
@@ -11602,28 +11602,28 @@ export const flashcards = [
   {
     "display": "夕べ",
     "reading": "ゆうべ",
-    "meaning": "ゆうべ",
+    "meaning": "Semalam",
     "audio": "/audio_jepang/夕べ【ゆうべ】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "夕刊",
     "reading": "ゆうかん",
-    "meaning": "ゆうかん",
+    "meaning": "Koran sore",
     "audio": "/audio_jepang/夕刊【ゆうかん】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "夕焼け",
     "reading": "ゆうやけ",
-    "meaning": "ゆうやけ",
+    "meaning": "Matahari terbenam (langit merah)",
     "audio": "/audio_jepang/夕焼け【ゆうやけ】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "外",
     "reading": "そと",
-    "meaning": "そと",
+    "meaning": "Luar",
     "audio": "/audio_jepang/外【そと】.mp3",
     "type": "vocabulary"
   },
@@ -11637,35 +11637,35 @@ export const flashcards = [
   {
     "display": "外れる",
     "reading": "はずれる",
-    "meaning": "はずれる",
+    "meaning": "Terlepas / meleset",
     "audio": "/audio_jepang/外れる【はずれる】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "外交",
     "reading": "がいこう",
-    "meaning": "がいこう",
+    "meaning": "Diplomasi",
     "audio": "/audio_jepang/外交【がいこう】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "外交官",
     "reading": "がいこうかん",
-    "meaning": "がいこうかん",
+    "meaning": "Diplomat",
     "audio": "/audio_jepang/外交官【がいこうかん】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "外人",
     "reading": "がいじん",
-    "meaning": "がいじん",
+    "meaning": "Orang asing",
     "audio": "/audio_jepang/外人【がいじん】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "外側",
     "reading": "そとがわ",
-    "meaning": "そとがわ",
+    "meaning": "Sisi luar",
     "audio": "/audio_jepang/外側【そとがわ】.mp3",
     "type": "vocabulary"
   },
@@ -11679,14 +11679,14 @@ export const flashcards = [
   {
     "display": "外国",
     "reading": "がいこく",
-    "meaning": "がいこく",
+    "meaning": "Negara asing",
     "audio": "/audio_jepang/外国【がいこく】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "外国人",
     "reading": "がいこくじん",
-    "meaning": "がいこくじん",
+    "meaning": "Orang asing",
     "audio": "/audio_jepang/外国人【がいこくじん】.mp3",
     "type": "vocabulary"
   },
@@ -11707,7 +11707,7 @@ export const flashcards = [
   {
     "display": "外来語",
     "reading": "がいらいご",
-    "meaning": "がいらいご",
+    "meaning": "Kata serapan",
     "audio": "/audio_jepang/外来語【がいらいご】.mp3",
     "type": "vocabulary"
   },
@@ -11728,14 +11728,14 @@ export const flashcards = [
   {
     "display": "多い",
     "reading": "おおい",
-    "meaning": "おおい",
+    "meaning": "Banyak",
     "audio": "/audio_jepang/多い【おおい】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "多分",
     "reading": "たぶん",
-    "meaning": "たぶん",
+    "meaning": "Mungkin",
     "audio": "/audio_jepang/多分【たぶん】.mp3",
     "type": "vocabulary"
   },
@@ -11756,21 +11756,21 @@ export const flashcards = [
   {
     "display": "夜",
     "reading": "よる",
-    "meaning": "よる",
+    "meaning": "Malam",
     "audio": "/audio_jepang/夜【よる】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "夢",
     "reading": "ゆめ",
-    "meaning": "ゆめ",
+    "meaning": "Mimpi",
     "audio": "/audio_jepang/夢【ゆめ】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "夢中",
     "reading": "むちゅう",
-    "meaning": "むちゅう",
+    "meaning": "Terobsesi / asyik",
     "audio": "/audio_jepang/夢中【むちゅう】.mp3",
     "type": "vocabulary"
   },
@@ -11805,42 +11805,42 @@ export const flashcards = [
   {
     "display": "大きさ",
     "reading": "おおきさ",
-    "meaning": "おおきさ",
+    "meaning": "Ukuran",
     "audio": "/audio_jepang/大きさ【おおきさ】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "大した",
     "reading": "たいした",
-    "meaning": "たいした",
+    "meaning": "Hebat / cukup besar",
     "audio": "/audio_jepang/大した【たいした】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "大丈夫",
     "reading": "だいじょうぶ",
-    "meaning": "だいじょうぶ",
+    "meaning": "Tidak apa-apa / baik-baik saja",
     "audio": "/audio_jepang/大丈夫【だいじょうぶ】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "大事",
     "reading": "だいじ",
-    "meaning": "だいじ",
+    "meaning": "Penting",
     "audio": "/audio_jepang/大事【だいじ】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "大人",
     "reading": "おとな",
-    "meaning": "おとな",
+    "meaning": "Orang dewasa",
     "audio": "/audio_jepang/大人【おとな】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "大人しい",
     "reading": "おとなしい",
-    "meaning": "おとなしい",
+    "meaning": "Pendiam / penurut",
     "audio": "/audio_jepang/大人しい【おとなしい】.mp3",
     "type": "vocabulary"
   },
@@ -11854,7 +11854,7 @@ export const flashcards = [
   {
     "display": "大会",
     "reading": "たいかい",
-    "meaning": "たいかい",
+    "meaning": "Turnamen / kejuaraan",
     "audio": "/audio_jepang/大会【たいかい】.mp3",
     "type": "vocabulary"
   },
@@ -11868,7 +11868,7 @@ export const flashcards = [
   {
     "display": "大体",
     "reading": "だいたい",
-    "meaning": "だいたい",
+    "meaning": "Kira-kira",
     "audio": "/audio_jepang/大体【だいたい】.mp3",
     "type": "vocabulary"
   },
@@ -11882,28 +11882,28 @@ export const flashcards = [
   {
     "display": "大切",
     "reading": "たいせつ",
-    "meaning": "たいせつ",
+    "meaning": "Penting / berharga",
     "audio": "/audio_jepang/大切【たいせつ】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "大勢",
     "reading": "おおぜい",
-    "meaning": "おおぜい",
+    "meaning": "Banyak orang",
     "audio": "/audio_jepang/大勢【おおぜい】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "大声",
     "reading": "おおごえ",
-    "meaning": "おおごえ",
+    "meaning": "Suara keras",
     "audio": "/audio_jepang/大声【おおごえ】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "大変",
     "reading": "たいへん",
-    "meaning": "たいへん",
+    "meaning": "Berat / sulit",
     "audio": "/audio_jepang/大変【たいへん】.mp3",
     "type": "vocabulary"
   },
@@ -11917,28 +11917,28 @@ export const flashcards = [
   {
     "display": "大好き",
     "reading": "だいすき",
-    "meaning": "だいすき",
+    "meaning": "Sangat suka",
     "audio": "/audio_jepang/大好き【だいすき】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "大嫌い",
     "reading": "だいきらい",
-    "meaning": "だいきらい",
+    "meaning": "Sangat benci",
     "audio": "/audio_jepang/大嫌い【だいきらい】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "大学",
     "reading": "だいがく",
-    "meaning": "だいがく",
+    "meaning": "Universitas",
     "audio": "/audio_jepang/大学【だいがく】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "大学生",
     "reading": "だいがくせい",
-    "meaning": "だいがくせい",
+    "meaning": "Mahasiswa",
     "audio": "/audio_jepang/大学生【だいがくせい】.mp3",
     "type": "vocabulary"
   },
@@ -11973,7 +11973,7 @@ export const flashcards = [
   {
     "display": "大幅",
     "reading": "おおはば",
-    "meaning": "おおはば",
+    "meaning": "Signifikan (perubahan besar)",
     "audio": "/audio_jepang/大幅【おおはば】.mp3",
     "type": "vocabulary"
   },
@@ -11987,7 +11987,7 @@ export const flashcards = [
   {
     "display": "大抵",
     "reading": "たいてい",
-    "meaning": "たいてい",
+    "meaning": "Biasanya",
     "audio": "/audio_jepang/大抵【たいてい】.mp3",
     "type": "vocabulary"
   },
@@ -12015,7 +12015,7 @@ export const flashcards = [
   {
     "display": "大根",
     "reading": "だいこん",
-    "meaning": "だいこん",
+    "meaning": "Lobak putih",
     "audio": "/audio_jepang/大根【だいこん】.mp3",
     "type": "vocabulary"
   },
@@ -12029,7 +12029,7 @@ export const flashcards = [
   {
     "display": "大気",
     "reading": "たいき",
-    "meaning": "たいき",
+    "meaning": "Atmosfer",
     "audio": "/audio_jepang/大気【たいき】.mp3",
     "type": "vocabulary"
   },
@@ -12043,35 +12043,35 @@ export const flashcards = [
   {
     "display": "大砲",
     "reading": "たいほう",
-    "meaning": "たいほう",
+    "meaning": "Meriam",
     "audio": "/audio_jepang/大砲【たいほう】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "大空",
     "reading": "おおぞら",
-    "meaning": "おおぞら",
+    "meaning": "Langit luas",
     "audio": "/audio_jepang/大空【おおぞら】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "大統領",
     "reading": "だいとうりょう",
-    "meaning": "だいとうりょう",
+    "meaning": "Presiden",
     "audio": "/audio_jepang/大統領【だいとうりょう】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "大胆",
     "reading": "だいたん",
-    "meaning": "だいたん",
+    "meaning": "Berani (nekat)",
     "audio": "/audio_jepang/大胆【だいたん】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "大腸",
     "reading": "だいちょう",
-    "meaning": "だいちょう",
+    "meaning": "Usus besar",
     "audio": "/audio_jepang/大腸【だいちょう】.mp3",
     "type": "vocabulary"
   },
@@ -12085,21 +12085,21 @@ export const flashcards = [
   {
     "display": "大臣",
     "reading": "だいじん",
-    "meaning": "だいじん",
+    "meaning": "Menteri",
     "audio": "/audio_jepang/大臣【だいじん】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "大衆",
     "reading": "たいしゅう",
-    "meaning": "たいしゅう",
+    "meaning": "Masyarakat umum",
     "audio": "/audio_jepang/大衆【たいしゅう】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "大規模",
     "reading": "だいきぼ",
-    "meaning": "だいきぼ",
+    "meaning": "Skala besar",
     "audio": "/audio_jepang/大規模【だいきぼ】.mp3",
     "type": "vocabulary"
   },
@@ -12113,7 +12113,7 @@ export const flashcards = [
   {
     "display": "大量",
     "reading": "たいりょう",
-    "meaning": "たいりょう",
+    "meaning": "Jumlah besar",
     "audio": "/audio_jepang/大量【たいりょう】.mp3",
     "type": "vocabulary"
   },
@@ -12127,7 +12127,7 @@ export const flashcards = [
   {
     "display": "大阪",
     "reading": "おおさか",
-    "meaning": "おおさか",
+    "meaning": "Osaka",
     "audio": "/audio_jepang/大阪【おおさか】.mp3",
     "type": "vocabulary"
   },
@@ -12141,7 +12141,7 @@ export const flashcards = [
   {
     "display": "大陸",
     "reading": "たいりく",
-    "meaning": "たいりく",
+    "meaning": "Benua",
     "audio": "/audio_jepang/大陸【たいりく】.mp3",
     "type": "vocabulary"
   },
@@ -12162,77 +12162,77 @@ export const flashcards = [
   {
     "display": "天",
     "reading": "てん",
-    "meaning": "てん",
+    "meaning": "Langit",
     "audio": "/audio_jepang/天【てん】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "天井",
     "reading": "てんじょう",
-    "meaning": "てんじょう",
+    "meaning": "Langit-langit (plafon)",
     "audio": "/audio_jepang/天井【てんじょう】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "天使",
     "reading": "てんし",
-    "meaning": "てんし",
+    "meaning": "Malaikat",
     "audio": "/audio_jepang/天使【てんし】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "天候",
     "reading": "てんこう",
-    "meaning": "てんこう",
+    "meaning": "Cuaca",
     "audio": "/audio_jepang/天候【てんこう】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "天国",
     "reading": "てんごく",
-    "meaning": "てんごく",
+    "meaning": "Surga",
     "audio": "/audio_jepang/天国【てんごく】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "天才",
     "reading": "てんさい",
-    "meaning": "てんさい",
+    "meaning": "Jenius",
     "audio": "/audio_jepang/天才【てんさい】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "天気",
     "reading": "てんき",
-    "meaning": "てんき",
+    "meaning": "Cuaca",
     "audio": "/audio_jepang/天気【てんき】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "天気予報",
     "reading": "てんきよほう",
-    "meaning": "てんきよほう",
+    "meaning": "Ramalan cuaca",
     "audio": "/audio_jepang/天気予報【てんきよほう】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "天皇",
     "reading": "てんのう",
-    "meaning": "てんのう",
+    "meaning": "Kaisar Jepang",
     "audio": "/audio_jepang/天皇【てんのう】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "太い",
     "reading": "ふとい",
-    "meaning": "ふとい",
+    "meaning": "Gemuk / tebal",
     "audio": "/audio_jepang/太い【ふとい】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "太る",
     "reading": "ふとる",
-    "meaning": "ふとる",
+    "meaning": "Menjadi gemuk",
     "audio": "/audio_jepang/太る【ふとる】.mp3",
     "type": "vocabulary"
   },
@@ -12246,14 +12246,14 @@ export const flashcards = [
   {
     "display": "太平洋",
     "reading": "たいへいよう",
-    "meaning": "たいへいよう",
+    "meaning": "Samudra Pasifik",
     "audio": "/audio_jepang/太平洋【たいへいよう】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "太陽",
     "reading": "たいよう",
-    "meaning": "たいよう",
+    "meaning": "Matahari",
     "audio": "/audio_jepang/太陽【たいよう】.mp3",
     "type": "vocabulary"
   },
@@ -12267,14 +12267,14 @@ export const flashcards = [
   {
     "display": "太鼓",
     "reading": "たいこ",
-    "meaning": "たいこ",
+    "meaning": "Drum Jepang",
     "audio": "/audio_jepang/太鼓【たいこ】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "夫",
     "reading": "おっと",
-    "meaning": "おっと",
+    "meaning": "Suami",
     "audio": "/audio_jepang/夫【おっと】.mp3",
     "type": "vocabulary"
   },
@@ -12288,21 +12288,21 @@ export const flashcards = [
   {
     "display": "夫婦",
     "reading": "ふうふ",
-    "meaning": "ふうふ",
+    "meaning": "Pasangan suami istri",
     "audio": "/audio_jepang/夫婦【ふうふ】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "失う",
     "reading": "うしなう",
-    "meaning": "うしなう",
+    "meaning": "Kehilangan",
     "audio": "/audio_jepang/失う【うしなう】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "失恋",
     "reading": "しつれん",
-    "meaning": "しつれん",
+    "meaning": "Patah hati",
     "audio": "/audio_jepang/失恋【しつれん】.mp3",
     "type": "vocabulary"
   },
@@ -12316,28 +12316,28 @@ export const flashcards = [
   {
     "display": "失敗",
     "reading": "しっぱい",
-    "meaning": "しっぱい",
+    "meaning": "Kegagalan",
     "audio": "/audio_jepang/失敗【しっぱい】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "失望",
     "reading": "しつぼう",
-    "meaning": "しつぼう",
+    "meaning": "Kekecewaan",
     "audio": "/audio_jepang/失望【しつぼう】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "失礼",
     "reading": "しつれい",
-    "meaning": "しつれい",
+    "meaning": "Permisi / tidak sopan",
     "audio": "/audio_jepang/失礼【しつれい】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "奇妙",
     "reading": "きみょう",
-    "meaning": "きみょう",
+    "meaning": "Aneh",
     "audio": "/audio_jepang/奇妙【きみょう】.mp3",
     "type": "vocabulary"
   },
@@ -12358,14 +12358,14 @@ export const flashcards = [
   {
     "display": "奇跡",
     "reading": "きせき",
-    "meaning": "きせき",
+    "meaning": "Keajaiban",
     "audio": "/audio_jepang/奇跡【きせき】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "奈良",
     "reading": "なら",
-    "meaning": "なら",
+    "meaning": "Nara",
     "audio": "/audio_jepang/奈良【なら】.mp3",
     "type": "vocabulary"
   },
@@ -12421,7 +12421,7 @@ export const flashcards = [
   {
     "display": "契約",
     "reading": "けいやく",
-    "meaning": "けいやく",
+    "meaning": "Kontrak",
     "audio": "/audio_jepang/契約【けいやく】.mp3",
     "type": "vocabulary"
   },
@@ -12442,14 +12442,14 @@ export const flashcards = [
   {
     "display": "奥",
     "reading": "おく",
-    "meaning": "おく",
+    "meaning": "Bagian dalam",
     "audio": "/audio_jepang/奥【おく】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "奥さん",
     "reading": "おくさん",
-    "meaning": "おくさん",
+    "meaning": "Istri (orang lain)",
     "audio": "/audio_jepang/奥さん【おくさん】.mp3",
     "type": "vocabulary"
   },
@@ -12484,7 +12484,7 @@ export const flashcards = [
   {
     "display": "奪う",
     "reading": "うばう",
-    "meaning": "うばう",
+    "meaning": "Merampas",
     "audio": "/audio_jepang/奪う【うばう】.mp3",
     "type": "vocabulary"
   },
@@ -12498,42 +12498,42 @@ export const flashcards = [
   {
     "display": "女",
     "reading": "おんな",
-    "meaning": "おんな",
+    "meaning": "Perempuan",
     "audio": "/audio_jepang/女【おんな】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "女の人",
     "reading": "おんなのひと",
-    "meaning": "おんなのひと",
+    "meaning": "Perempuan (orang)",
     "audio": "/audio_jepang/女の人【おんなのひと】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "女の子",
     "reading": "おんなのこ",
-    "meaning": "おんなのこ",
+    "meaning": "Anak perempuan",
     "audio": "/audio_jepang/女の子【おんなのこ】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "女優",
     "reading": "じょゆう",
-    "meaning": "じょゆう",
+    "meaning": "Aktris",
     "audio": "/audio_jepang/女優【じょゆう】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "女子",
     "reading": "じょし",
-    "meaning": "じょし",
+    "meaning": "Wanita muda",
     "audio": "/audio_jepang/女子【じょし】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "女性",
     "reading": "じょせい",
-    "meaning": "じょせい",
+    "meaning": "Wanita",
     "audio": "/audio_jepang/女性【じょせい】.mp3",
     "type": "vocabulary"
   },
@@ -12547,7 +12547,7 @@ export const flashcards = [
   {
     "display": "女王",
     "reading": "じょおう",
-    "meaning": "じょおう",
+    "meaning": "Ratu",
     "audio": "/audio_jepang/女王【じょおう】.mp3",
     "type": "vocabulary"
   },
@@ -12582,21 +12582,21 @@ export const flashcards = [
   {
     "display": "好き",
     "reading": "すき",
-    "meaning": "すき",
+    "meaning": "Suka",
     "audio": "/audio_jepang/好き【すき】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "好む",
     "reading": "このむ",
-    "meaning": "このむ",
+    "meaning": "Menyukai",
     "audio": "/audio_jepang/好む【このむ】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "好奇心",
     "reading": "こうきしん",
-    "meaning": "こうきしん",
+    "meaning": "Rasa ingin tahu",
     "audio": "/audio_jepang/好奇心【こうきしん】.mp3",
     "type": "vocabulary"
   },
@@ -12617,7 +12617,7 @@ export const flashcards = [
   {
     "display": "妊娠する",
     "reading": "にんしんする",
-    "meaning": "にんしんする",
+    "meaning": "Hamil",
     "audio": "/audio_jepang/妊娠する【にんしんする】.mp3",
     "type": "vocabulary"
   },
@@ -12645,7 +12645,7 @@ export const flashcards = [
   {
     "display": "妥協",
     "reading": "だきょう",
-    "meaning": "だきょう",
+    "meaning": "Kompromi",
     "audio": "/audio_jepang/妥協【だきょう】.mp3",
     "type": "vocabulary"
   },
@@ -12659,7 +12659,7 @@ export const flashcards = [
   {
     "display": "妨げる",
     "reading": "さまたげる",
-    "meaning": "さまたげる",
+    "meaning": "Menghalangi",
     "audio": "/audio_jepang/妨げる【さまたげる】.mp3",
     "type": "vocabulary"
   },
@@ -12673,14 +12673,14 @@ export const flashcards = [
   {
     "display": "妹",
     "reading": "いもうと",
-    "meaning": "いもうと",
+    "meaning": "Adik perempuan",
     "audio": "/audio_jepang/妹【いもうと】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "妻",
     "reading": "つま",
-    "meaning": "つま",
+    "meaning": "Istri",
     "audio": "/audio_jepang/妻【つま】.mp3",
     "type": "vocabulary"
   },
@@ -12694,21 +12694,21 @@ export const flashcards = [
   {
     "display": "姉",
     "reading": "あね",
-    "meaning": "あね",
+    "meaning": "Kakak perempuan",
     "audio": "/audio_jepang/姉【あね】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "姉妹",
     "reading": "しまい",
-    "meaning": "しまい",
+    "meaning": "Saudara perempuan",
     "audio": "/audio_jepang/姉妹【しまい】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "始まる",
     "reading": "はじまる",
-    "meaning": "はじまる",
+    "meaning": "Dimulai",
     "audio": "/audio_jepang/始まる【はじまる】.mp3",
     "type": "vocabulary"
   },
@@ -12722,7 +12722,7 @@ export const flashcards = [
   {
     "display": "始める",
     "reading": "はじめる",
-    "meaning": "はじめる",
+    "meaning": "Memulai",
     "audio": "/audio_jepang/始める【はじめる】.mp3",
     "type": "vocabulary"
   },
@@ -12743,7 +12743,7 @@ export const flashcards = [
   {
     "display": "委員会",
     "reading": "いいんかい",
-    "meaning": "いいんかい",
+    "meaning": "Komite",
     "audio": "/audio_jepang/委員会【いいんかい】.mp3",
     "type": "vocabulary"
   },
@@ -12771,14 +12771,14 @@ export const flashcards = [
   {
     "display": "姿",
     "reading": "すがた",
-    "meaning": "すがた",
+    "meaning": "Wujud / penampilan",
     "audio": "/audio_jepang/姿【すがた】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "姿勢",
     "reading": "しせい",
-    "meaning": "しせい",
+    "meaning": "Postur / sikap",
     "audio": "/audio_jepang/姿勢【しせい】.mp3",
     "type": "vocabulary"
   },
@@ -12799,7 +12799,7 @@ export const flashcards = [
   {
     "display": "娘",
     "reading": "むすめ",
-    "meaning": "むすめ",
+    "meaning": "Anak perempuan",
     "audio": "/audio_jepang/娘【むすめ】.mp3",
     "type": "vocabulary"
   },
@@ -12813,7 +12813,7 @@ export const flashcards = [
   {
     "display": "娯楽",
     "reading": "ごらく",
-    "meaning": "ごらく",
+    "meaning": "Hiburan",
     "audio": "/audio_jepang/娯楽【ごらく】.mp3",
     "type": "vocabulary"
   },
@@ -12827,7 +12827,7 @@ export const flashcards = [
   {
     "display": "婦人",
     "reading": "ふじん",
-    "meaning": "ふじん",
+    "meaning": "Wanita (dewasa)",
     "audio": "/audio_jepang/婦人【ふじん】.mp3",
     "type": "vocabulary"
   },
@@ -12862,7 +12862,7 @@ export const flashcards = [
   {
     "display": "嫁",
     "reading": "よめ",
-    "meaning": "よめ",
+    "meaning": "Menantu perempuan",
     "audio": "/audio_jepang/嫁【よめ】.mp3",
     "type": "vocabulary"
   },
@@ -12876,14 +12876,14 @@ export const flashcards = [
   {
     "display": "嫌",
     "reading": "いや",
-    "meaning": "いや",
+    "meaning": "Tidak suka",
     "audio": "/audio_jepang/嫌【いや】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "嫌い",
     "reading": "きらい",
-    "meaning": "きらい",
+    "meaning": "Benci",
     "audio": "/audio_jepang/嫌い【きらい】.mp3",
     "type": "vocabulary"
   },
@@ -12925,28 +12925,28 @@ export const flashcards = [
   {
     "display": "嬉しい",
     "reading": "うれしい",
-    "meaning": "うれしい",
+    "meaning": "Senang",
     "audio": "/audio_jepang/嬉しい【うれしい】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "子",
     "reading": "こ",
-    "meaning": "こ",
+    "meaning": "Anak",
     "audio": "/audio_jepang/子【こ】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "子供",
     "reading": "こども",
-    "meaning": "こども",
+    "meaning": "Anak-anak",
     "audio": "/audio_jepang/子供【こども】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "子孫",
     "reading": "しそん",
-    "meaning": "しそん",
+    "meaning": "Keturunan",
     "audio": "/audio_jepang/子孫【しそん】.mp3",
     "type": "vocabulary"
   },
@@ -12967,21 +12967,21 @@ export const flashcards = [
   {
     "display": "子犬",
     "reading": "こいぬ",
-    "meaning": "こいぬ",
+    "meaning": "Anak anjing",
     "audio": "/audio_jepang/子犬【こいぬ】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "子猫",
     "reading": "こねこ",
-    "meaning": "こねこ",
+    "meaning": "Anak kucing",
     "audio": "/audio_jepang/子猫【こねこ】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "字",
     "reading": "じ",
-    "meaning": "じ",
+    "meaning": "Huruf",
     "audio": "/audio_jepang/字【じ】.mp3",
     "type": "vocabulary"
   },
@@ -12995,7 +12995,7 @@ export const flashcards = [
   {
     "display": "字幕",
     "reading": "じまく",
-    "meaning": "じまく",
+    "meaning": "Subtitle",
     "audio": "/audio_jepang/字幕【じまく】.mp3",
     "type": "vocabulary"
   },
@@ -13009,14 +13009,14 @@ export const flashcards = [
   {
     "display": "存在",
     "reading": "そんざい",
-    "meaning": "そんざい",
+    "meaning": "Keberadaan",
     "audio": "/audio_jepang/存在【そんざい】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "存在する",
     "reading": "そんざいする",
-    "meaning": "そんざいする",
+    "meaning": "Ada / eksis",
     "audio": "/audio_jepang/存在する【そんざいする】.mp3",
     "type": "vocabulary"
   },
@@ -13030,7 +13030,7 @@ export const flashcards = [
   {
     "display": "季節",
     "reading": "きせつ",
-    "meaning": "きせつ",
+    "meaning": "Musim",
     "audio": "/audio_jepang/季節【きせつ】.mp3",
     "type": "vocabulary"
   },
@@ -13058,7 +13058,7 @@ export const flashcards = [
   {
     "display": "孤独",
     "reading": "こどく",
-    "meaning": "こどく",
+    "meaning": "Kesepian",
     "audio": "/audio_jepang/孤独【こどく】.mp3",
     "type": "vocabulary"
   },
@@ -13072,28 +13072,28 @@ export const flashcards = [
   {
     "display": "学ぶ",
     "reading": "まなぶ",
-    "meaning": "まなぶ",
+    "meaning": "Belajar",
     "audio": "/audio_jepang/学ぶ【まなぶ】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "学問",
     "reading": "がくもん",
-    "meaning": "がくもん",
+    "meaning": "Ilmu pengetahuan",
     "audio": "/audio_jepang/学問【がくもん】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "学年",
     "reading": "がくねん",
-    "meaning": "がくねん",
+    "meaning": "Tingkat kelas",
     "audio": "/audio_jepang/学年【がくねん】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "学期",
     "reading": "がっき",
-    "meaning": "がっき",
+    "meaning": "Semester",
     "audio": "/audio_jepang/学期【がっき】.mp3",
     "type": "vocabulary"
   },
@@ -13107,7 +13107,7 @@ export const flashcards = [
   {
     "display": "学歴",
     "reading": "がくれき",
-    "meaning": "がくれき",
+    "meaning": "Riwayat pendidikan",
     "audio": "/audio_jepang/学歴【がくれき】.mp3",
     "type": "vocabulary"
   },
@@ -13121,7 +13121,7 @@ export const flashcards = [
   {
     "display": "学者",
     "reading": "がくしゃ",
-    "meaning": "がくしゃ",
+    "meaning": "Ilmuwan / cendekiawan",
     "audio": "/audio_jepang/学者【がくしゃ】.mp3",
     "type": "vocabulary"
   },
@@ -13135,7 +13135,7 @@ export const flashcards = [
   {
     "display": "孫",
     "reading": "まご",
-    "meaning": "まご",
+    "meaning": "Cucu",
     "audio": "/audio_jepang/孫【まご】.mp3",
     "type": "vocabulary"
   },
@@ -13149,28 +13149,28 @@ export const flashcards = [
   {
     "display": "宇宙",
     "reading": "うちゅう",
-    "meaning": "うちゅう",
+    "meaning": "Alam semesta",
     "audio": "/audio_jepang/宇宙【うちゅう】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "宇宙人",
     "reading": "うちゅうじん",
-    "meaning": "うちゅうじん",
+    "meaning": "Alien",
     "audio": "/audio_jepang/宇宙人【うちゅうじん】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "宇宙船",
     "reading": "うちゅうせん",
-    "meaning": "うちゅうせん",
+    "meaning": "Pesawat luar angkasa",
     "audio": "/audio_jepang/宇宙船【うちゅうせん】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "守る",
     "reading": "まもる",
-    "meaning": "まもる",
+    "meaning": "Melindungi",
     "audio": "/audio_jepang/守る【まもる】.mp3",
     "type": "vocabulary"
   },
@@ -13191,7 +13191,7 @@ export const flashcards = [
   {
     "display": "安全",
     "reading": "あんぜん",
-    "meaning": "あんぜん",
+    "meaning": "Aman",
     "audio": "/audio_jepang/安全【あんぜん】.mp3",
     "type": "vocabulary"
   },
@@ -13205,7 +13205,7 @@ export const flashcards = [
   {
     "display": "安心",
     "reading": "あんしん",
-    "meaning": "あんしん",
+    "meaning": "Tenang / lega",
     "audio": "/audio_jepang/安心【あんしん】.mp3",
     "type": "vocabulary"
   },
@@ -13219,21 +13219,21 @@ export const flashcards = [
   {
     "display": "完了",
     "reading": "かんりょう",
-    "meaning": "かんりょう",
+    "meaning": "Selesai",
     "audio": "/audio_jepang/完了【かんりょう】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "完全",
     "reading": "かんぜん",
-    "meaning": "かんぜん",
+    "meaning": "Sempurna",
     "audio": "/audio_jepang/完全【かんぜん】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "完成",
     "reading": "かんせい",
-    "meaning": "かんせい",
+    "meaning": "Penyelesaian",
     "audio": "/audio_jepang/完成【かんせい】.mp3",
     "type": "vocabulary"
   },
@@ -13247,7 +13247,7 @@ export const flashcards = [
   {
     "display": "宗教",
     "reading": "しゅうきょう",
-    "meaning": "しゅうきょう",
+    "meaning": "Agama",
     "audio": "/audio_jepang/宗教【しゅうきょう】.mp3",
     "type": "vocabulary"
   },
@@ -13261,7 +13261,7 @@ export const flashcards = [
   {
     "display": "官僚",
     "reading": "かんりょう",
-    "meaning": "かんりょう",
+    "meaning": "Birokrat",
     "audio": "/audio_jepang/官僚【かんりょう】.mp3",
     "type": "vocabulary"
   },
@@ -13317,7 +13317,7 @@ export const flashcards = [
   {
     "display": "定義",
     "reading": "ていぎ",
-    "meaning": "ていぎ",
+    "meaning": "Definisi",
     "audio": "/audio_jepang/定義【ていぎ】.mp3",
     "type": "vocabulary"
   },
@@ -13345,35 +13345,35 @@ export const flashcards = [
   {
     "display": "宜しく",
     "reading": "よろしく",
-    "meaning": "よろしく",
+    "meaning": "Salam kenal / mohon bantuannya",
     "audio": "/audio_jepang/宜しく【よろしく】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "宜しくお願いします",
     "reading": "よろしくおねがいします",
-    "meaning": "よろしくおねがいします",
+    "meaning": "Mohon bantuannya",
     "audio": "/audio_jepang/宜しくお願いします【よろしくおねがいします】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "宝",
     "reading": "たから",
-    "meaning": "たから",
+    "meaning": "Harta karun",
     "audio": "/audio_jepang/宝【たから】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "宝くじ",
     "reading": "たからくじ",
-    "meaning": "たからくじ",
+    "meaning": "Lotre",
     "audio": "/audio_jepang/宝くじ【たからくじ】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "宝石",
     "reading": "ほうせき",
-    "meaning": "ほうせき",
+    "meaning": "Permata",
     "audio": "/audio_jepang/宝石【ほうせき】.mp3",
     "type": "vocabulary"
   },
@@ -13387,7 +13387,7 @@ export const flashcards = [
   {
     "display": "実力",
     "reading": "じつりょく",
-    "meaning": "じつりょく",
+    "meaning": "Kemampuan sebenarnya",
     "audio": "/audio_jepang/実力【じつりょく】.mp3",
     "type": "vocabulary"
   },
@@ -13401,49 +13401,49 @@ export const flashcards = [
   {
     "display": "実感",
     "reading": "じっかん",
-    "meaning": "じっかん",
+    "meaning": "Perasaan nyata",
     "audio": "/audio_jepang/実感【じっかん】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "実践",
     "reading": "じっせん",
-    "meaning": "じっせん",
+    "meaning": "Praktik",
     "audio": "/audio_jepang/実践【じっせん】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "実際",
     "reading": "じっさい",
-    "meaning": "じっさい",
+    "meaning": "Kenyataan",
     "audio": "/audio_jepang/実際【じっさい】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "実験",
     "reading": "じっけん",
-    "meaning": "じっけん",
+    "meaning": "Eksperimen",
     "audio": "/audio_jepang/実験【じっけん】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "客室",
     "reading": "きゃくしつ",
-    "meaning": "きゃくしつ",
+    "meaning": "Kamar tamu",
     "audio": "/audio_jepang/客室【きゃくしつ】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "宣伝",
     "reading": "せんでん",
-    "meaning": "せんでん",
+    "meaning": "Promosi / propaganda",
     "audio": "/audio_jepang/宣伝【せんでん】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "宣言",
     "reading": "せんげん",
-    "meaning": "せんげん",
+    "meaning": "Deklarasi",
     "audio": "/audio_jepang/宣言【せんげん】.mp3",
     "type": "vocabulary"
   },
@@ -13499,21 +13499,21 @@ export const flashcards = [
   {
     "display": "家事",
     "reading": "かじ",
-    "meaning": "かじ",
+    "meaning": "Pekerjaan rumah tangga",
     "audio": "/audio_jepang/家事【かじ】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "家具",
     "reading": "かぐ",
-    "meaning": "かぐ",
+    "meaning": "Furnitur",
     "audio": "/audio_jepang/家具【かぐ】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "家庭",
     "reading": "かてい",
-    "meaning": "かてい",
+    "meaning": "Rumah tangga",
     "audio": "/audio_jepang/家庭【かてい】.mp3",
     "type": "vocabulary"
   },
@@ -13534,7 +13534,7 @@ export const flashcards = [
   {
     "display": "家族",
     "reading": "かぞく",
-    "meaning": "かぞく",
+    "meaning": "Keluarga",
     "audio": "/audio_jepang/家族【かぞく】.mp3",
     "type": "vocabulary"
   },
@@ -13548,14 +13548,14 @@ export const flashcards = [
   {
     "display": "家賃",
     "reading": "やちん",
-    "meaning": "やちん",
+    "meaning": "Uang sewa rumah",
     "audio": "/audio_jepang/家賃【やちん】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "容易",
     "reading": "ようい",
-    "meaning": "ようい",
+    "meaning": "Mudah",
     "audio": "/audio_jepang/容易【ようい】.mp3",
     "type": "vocabulary"
   },
@@ -13590,28 +13590,28 @@ export const flashcards = [
   {
     "display": "宿",
     "reading": "やど",
-    "meaning": "やど",
+    "meaning": "Penginapan",
     "audio": "/audio_jepang/宿【やど】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "宿泊",
     "reading": "しゅくはく",
-    "meaning": "しゅくはく",
+    "meaning": "Menginap",
     "audio": "/audio_jepang/宿泊【しゅくはく】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "宿題",
     "reading": "しゅくだい",
-    "meaning": "しゅくだい",
+    "meaning": "Pekerjaan rumah (PR)",
     "audio": "/audio_jepang/宿題【しゅくだい】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "寂しい",
     "reading": "さびしい",
-    "meaning": "さびしい",
+    "meaning": "Kesepian",
     "audio": "/audio_jepang/寂しい【さびしい】.mp3",
     "type": "vocabulary"
   },
@@ -13632,7 +13632,7 @@ export const flashcards = [
   {
     "display": "寄付",
     "reading": "きふ",
-    "meaning": "きふ",
+    "meaning": "Donasi",
     "audio": "/audio_jepang/寄付【きふ】.mp3",
     "type": "vocabulary"
   },
@@ -13674,7 +13674,7 @@ export const flashcards = [
   {
     "display": "富",
     "reading": "とみ",
-    "meaning": "とみ",
+    "meaning": "Kekayaan",
     "audio": "/audio_jepang/富【とみ】.mp3",
     "type": "vocabulary"
   },
@@ -13688,7 +13688,7 @@ export const flashcards = [
   {
     "display": "富士山",
     "reading": "ふじさん",
-    "meaning": "ふじさん",
+    "meaning": "Gunung Fuji",
     "audio": "/audio_jepang/富士山【ふじさん】.mp3",
     "type": "vocabulary"
   },
@@ -13702,7 +13702,7 @@ export const flashcards = [
   {
     "display": "寒い",
     "reading": "さむい",
-    "meaning": "さむい",
+    "meaning": "Dingin (cuaca)",
     "audio": "/audio_jepang/寒い【さむい】.mp3",
     "type": "vocabulary"
   },
@@ -13730,7 +13730,7 @@ export const flashcards = [
   {
     "display": "寝る",
     "reading": "ねる",
-    "meaning": "ねる",
+    "meaning": "Tidur",
     "audio": "/audio_jepang/寝る【ねる】.mp3",
     "type": "vocabulary"
   },
@@ -13751,7 +13751,7 @@ export const flashcards = [
   {
     "display": "寝坊する",
     "reading": "ねぼうする",
-    "meaning": "ねぼうする",
+    "meaning": "Bangun kesiangan",
     "audio": "/audio_jepang/寝坊する【ねぼうする】.mp3",
     "type": "vocabulary"
   },
@@ -13856,14 +13856,14 @@ export const flashcards = [
   {
     "display": "寺",
     "reading": "てら",
-    "meaning": "てら",
+    "meaning": "Kuil Buddha",
     "audio": "/audio_jepang/寺【てら】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "対する",
     "reading": "たいする",
-    "meaning": "たいする",
+    "meaning": "Terhadap",
     "audio": "/audio_jepang/対する【たいする】.mp3",
     "type": "vocabulary"
   },
@@ -13884,7 +13884,7 @@ export const flashcards = [
   {
     "display": "対応",
     "reading": "たいおう",
-    "meaning": "たいおう",
+    "meaning": "Penanganan / respons",
     "audio": "/audio_jepang/対応【たいおう】.mp3",
     "type": "vocabulary"
   },
@@ -13905,7 +13905,7 @@ export const flashcards = [
   {
     "display": "対立",
     "reading": "たいりつ",
-    "meaning": "たいりつ",
+    "meaning": "Konflik / pertentangan",
     "audio": "/audio_jepang/対立【たいりつ】.mp3",
     "type": "vocabulary"
   },
@@ -13919,7 +13919,7 @@ export const flashcards = [
   {
     "display": "対策",
     "reading": "たいさく",
-    "meaning": "たいさく",
+    "meaning": "Langkah antisipasi",
     "audio": "/audio_jepang/対策【たいさく】.mp3",
     "type": "vocabulary"
   },
@@ -13933,21 +13933,21 @@ export const flashcards = [
   {
     "display": "対象",
     "reading": "たいしょう",
-    "meaning": "たいしょう",
+    "meaning": "Objek / sasaran",
     "audio": "/audio_jepang/対象【たいしょう】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "寿司",
     "reading": "すし",
-    "meaning": "すし",
+    "meaning": "Sushi",
     "audio": "/audio_jepang/寿司【すし】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "寿命",
     "reading": "じゅみょう",
-    "meaning": "じゅみょう",
+    "meaning": "Umur (lama hidup)",
     "audio": "/audio_jepang/寿命【じゅみょう】.mp3",
     "type": "vocabulary"
   },
@@ -13975,7 +13975,7 @@ export const flashcards = [
   {
     "display": "封筒",
     "reading": "ふうとう",
-    "meaning": "ふうとう",
+    "meaning": "Amplop",
     "audio": "/audio_jepang/封筒【ふうとう】.mp3",
     "type": "vocabulary"
   },
@@ -13989,28 +13989,28 @@ export const flashcards = [
   {
     "display": "専攻",
     "reading": "せんこう",
-    "meaning": "せんこう",
+    "meaning": "Jurusan (studi)",
     "audio": "/audio_jepang/専攻【せんこう】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "専門",
     "reading": "せんもん",
-    "meaning": "せんもん",
+    "meaning": "Spesialisasi",
     "audio": "/audio_jepang/専門【せんもん】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "将来",
     "reading": "しょうらい",
-    "meaning": "しょうらい",
+    "meaning": "Masa depan",
     "audio": "/audio_jepang/将来【しょうらい】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "将棋",
     "reading": "しょうぎ",
-    "meaning": "しょうぎ",
+    "meaning": "Catur Jepang",
     "audio": "/audio_jepang/将棋【しょうぎ】.mp3",
     "type": "vocabulary"
   },
@@ -14031,14 +14031,14 @@ export const flashcards = [
   {
     "display": "尊敬",
     "reading": "そんけい",
-    "meaning": "そんけい",
+    "meaning": "Rasa hormat",
     "audio": "/audio_jepang/尊敬【そんけい】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "尊敬する",
     "reading": "そんけいする",
-    "meaning": "そんけいする",
+    "meaning": "Menghormati",
     "audio": "/audio_jepang/尊敬する【そんけいする】.mp3",
     "type": "vocabulary"
   },
@@ -14052,7 +14052,7 @@ export const flashcards = [
   {
     "display": "尋ねる",
     "reading": "たずねる",
-    "meaning": "たずねる",
+    "meaning": "Bertanya",
     "audio": "/audio_jepang/尋ねる【たずねる】.mp3",
     "type": "vocabulary"
   },
@@ -14066,7 +14066,7 @@ export const flashcards = [
   {
     "display": "導く",
     "reading": "みちびく",
-    "meaning": "みちびく",
+    "meaning": "Membimbing",
     "audio": "/audio_jepang/導く【みちびく】.mp3",
     "type": "vocabulary"
   },
@@ -14087,7 +14087,7 @@ export const flashcards = [
   {
     "display": "小包",
     "reading": "こづつみ",
-    "meaning": "こづつみ",
+    "meaning": "Paket kecil",
     "audio": "/audio_jepang/小包【こづつみ】.mp3",
     "type": "vocabulary"
   },
@@ -14101,21 +14101,21 @@ export const flashcards = [
   {
     "display": "小学校",
     "reading": "しょうがっこう",
-    "meaning": "しょうがっこう",
+    "meaning": "SD",
     "audio": "/audio_jepang/小学校【しょうがっこう】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "小学生",
     "reading": "しょうがくせい",
-    "meaning": "しょうがくせい",
+    "meaning": "Siswa SD",
     "audio": "/audio_jepang/小学生【しょうがくせい】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "小指",
     "reading": "こゆび",
-    "meaning": "こゆび",
+    "meaning": "Jari kelingking",
     "audio": "/audio_jepang/小指【こゆび】.mp3",
     "type": "vocabulary"
   },
@@ -14157,7 +14157,7 @@ export const flashcards = [
   {
     "display": "小説",
     "reading": "しょうせつ",
-    "meaning": "しょうせつ",
+    "meaning": "Novel",
     "audio": "/audio_jepang/小説【しょうせつ】.mp3",
     "type": "vocabulary"
   },
@@ -14171,28 +14171,28 @@ export const flashcards = [
   {
     "display": "小遣い",
     "reading": "こづかい",
-    "meaning": "こづかい",
+    "meaning": "Uang saku",
     "audio": "/audio_jepang/小遣い【こづかい】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "小麦粉",
     "reading": "こむぎこ",
-    "meaning": "こむぎこ",
+    "meaning": "Tepung terigu",
     "audio": "/audio_jepang/小麦粉【こむぎこ】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "少し",
     "reading": "すこし",
-    "meaning": "すこし",
+    "meaning": "Sedikit",
     "audio": "/audio_jepang/少し【すこし】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "少ない",
     "reading": "すくない",
-    "meaning": "すくない",
+    "meaning": "Sedikit (jumlah)",
     "audio": "/audio_jepang/少ない【すくない】.mp3",
     "type": "vocabulary"
   },
@@ -14206,7 +14206,7 @@ export const flashcards = [
   {
     "display": "少女",
     "reading": "しょうじょ",
-    "meaning": "しょうじょ",
+    "meaning": "Gadis",
     "audio": "/audio_jepang/少女【しょうじょ】.mp3",
     "type": "vocabulary"
   },
@@ -14220,7 +14220,7 @@ export const flashcards = [
   {
     "display": "少年",
     "reading": "しょうねん",
-    "meaning": "しょうねん",
+    "meaning": "Anak laki-laki (remaja)",
     "audio": "/audio_jepang/少年【しょうねん】.mp3",
     "type": "vocabulary"
   },
@@ -14262,7 +14262,7 @@ export const flashcards = [
   {
     "display": "就職",
     "reading": "しゅうしょく",
-    "meaning": "しゅうしょく",
+    "meaning": "Mencari kerja",
     "audio": "/audio_jepang/就職【しゅうしょく】.mp3",
     "type": "vocabulary"
   },
@@ -14276,7 +14276,7 @@ export const flashcards = [
   {
     "display": "尻尾",
     "reading": "しっぽ",
-    "meaning": "しっぽ",
+    "meaning": "Ekor",
     "audio": "/audio_jepang/尻尾【しっぽ】.mp3",
     "type": "vocabulary"
   },
@@ -14318,7 +14318,7 @@ export const flashcards = [
   {
     "display": "尾",
     "reading": "お",
-    "meaning": "お",
+    "meaning": "Ekor",
     "audio": "/audio_jepang/尾【お】.mp3",
     "type": "vocabulary"
   },
@@ -14339,7 +14339,7 @@ export const flashcards = [
   {
     "display": "居る",
     "reading": "いる",
-    "meaning": "いる",
+    "meaning": "Berada / ada",
     "audio": "/audio_jepang/居る【いる】.mp3",
     "type": "vocabulary"
   },
@@ -14353,14 +14353,14 @@ export const flashcards = [
   {
     "display": "居酒屋",
     "reading": "いざかや",
-    "meaning": "いざかや",
+    "meaning": "Kedai minum khas Jepang",
     "audio": "/audio_jepang/居酒屋【いざかや】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "居間",
     "reading": "いま",
-    "meaning": "いま",
+    "meaning": "Ruang keluarga",
     "audio": "/audio_jepang/居間【いま】.mp3",
     "type": "vocabulary"
   },
@@ -14381,21 +14381,21 @@ export const flashcards = [
   {
     "display": "届く",
     "reading": "とどく",
-    "meaning": "とどく",
+    "meaning": "Sampai / terkirim",
     "audio": "/audio_jepang/届く【とどく】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "届ける",
     "reading": "とどける",
-    "meaning": "とどける",
+    "meaning": "Mengirimkan",
     "audio": "/audio_jepang/届ける【とどける】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "屋上",
     "reading": "おくじょう",
-    "meaning": "おくじょう",
+    "meaning": "Atap gedung",
     "audio": "/audio_jepang/屋上【おくじょう】.mp3",
     "type": "vocabulary"
   },
@@ -14409,7 +14409,7 @@ export const flashcards = [
   {
     "display": "屋根",
     "reading": "やね",
-    "meaning": "やね",
+    "meaning": "Atap",
     "audio": "/audio_jepang/屋根【やね】.mp3",
     "type": "vocabulary"
   },
@@ -14444,21 +14444,21 @@ export const flashcards = [
   {
     "display": "履く",
     "reading": "はく",
-    "meaning": "はく",
+    "meaning": "Memakai (sepatu/celana)",
     "audio": "/audio_jepang/履く【はく】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "履歴書",
     "reading": "りれきしょ",
-    "meaning": "りれきしょ",
+    "meaning": "Riwayat hidup (CV)",
     "audio": "/audio_jepang/履歴書【りれきしょ】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "山",
     "reading": "やま",
-    "meaning": "やま",
+    "meaning": "Gunung",
     "audio": "/audio_jepang/山【やま】.mp3",
     "type": "vocabulary"
   },
@@ -14479,7 +14479,7 @@ export const flashcards = [
   {
     "display": "山登り",
     "reading": "やまのぼり",
-    "meaning": "やまのぼり",
+    "meaning": "Mendaki gunung",
     "audio": "/audio_jepang/山登り【やまのぼり】.mp3",
     "type": "vocabulary"
   },
@@ -14542,7 +14542,7 @@ export const flashcards = [
   {
     "display": "岩",
     "reading": "いわ",
-    "meaning": "いわ",
+    "meaning": "Batu karang",
     "audio": "/audio_jepang/岩【いわ】.mp3",
     "type": "vocabulary"
   },
@@ -14556,7 +14556,7 @@ export const flashcards = [
   {
     "display": "岬",
     "reading": "みさき",
-    "meaning": "みさき",
+    "meaning": "Tanjung",
     "audio": "/audio_jepang/岬【みさき】.mp3",
     "type": "vocabulary"
   },
@@ -14591,7 +14591,7 @@ export const flashcards = [
   {
     "display": "島",
     "reading": "しま",
-    "meaning": "しま",
+    "meaning": "Pulau",
     "audio": "/audio_jepang/島【しま】.mp3",
     "type": "vocabulary"
   },
@@ -14633,7 +14633,7 @@ export const flashcards = [
   {
     "display": "崩れる",
     "reading": "くずれる",
-    "meaning": "くずれる",
+    "meaning": "Runtuh",
     "audio": "/audio_jepang/崩れる【くずれる】.mp3",
     "type": "vocabulary"
   },
@@ -14647,14 +14647,14 @@ export const flashcards = [
   {
     "display": "嵐",
     "reading": "あらし",
-    "meaning": "あらし",
+    "meaning": "Badai",
     "audio": "/audio_jepang/嵐【あらし】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "川",
     "reading": "かわ",
-    "meaning": "かわ",
+    "meaning": "Sungai",
     "audio": "/audio_jepang/川【かわ】.mp3",
     "type": "vocabulary"
   },
@@ -14717,7 +14717,7 @@ export const flashcards = [
   {
     "display": "巣",
     "reading": "す",
-    "meaning": "す",
+    "meaning": "Sarang",
     "audio": "/audio_jepang/巣【す】.mp3",
     "type": "vocabulary"
   },
@@ -14731,7 +14731,7 @@ export const flashcards = [
   {
     "display": "工事",
     "reading": "こうじ",
-    "meaning": "こうじ",
+    "meaning": "Konstruksi",
     "audio": "/audio_jepang/工事【こうじ】.mp3",
     "type": "vocabulary"
   },
@@ -14745,7 +14745,7 @@ export const flashcards = [
   {
     "display": "工場",
     "reading": "こうじょう",
-    "meaning": "こうじょう",
+    "meaning": "Pabrik",
     "audio": "/audio_jepang/工場【こうじょう】.mp3",
     "type": "vocabulary"
   },
@@ -14766,21 +14766,21 @@ export const flashcards = [
   {
     "display": "工業",
     "reading": "こうぎょう",
-    "meaning": "こうぎょう",
+    "meaning": "Industri",
     "audio": "/audio_jepang/工業【こうぎょう】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "左",
     "reading": "ひだり",
-    "meaning": "ひだり",
+    "meaning": "Kiri",
     "audio": "/audio_jepang/左【ひだり】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "左側",
     "reading": "ひだりがわ",
-    "meaning": "ひだりがわ",
+    "meaning": "Sisi kiri",
     "audio": "/audio_jepang/左側【ひだりがわ】.mp3",
     "type": "vocabulary"
   },
@@ -14794,14 +14794,14 @@ export const flashcards = [
   {
     "display": "左右",
     "reading": "さゆう",
-    "meaning": "さゆう",
+    "meaning": "Kiri-kanan",
     "audio": "/audio_jepang/左右【さゆう】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "左手",
     "reading": "ひだりて",
-    "meaning": "ひだりて",
+    "meaning": "Tangan kiri",
     "audio": "/audio_jepang/左手【ひだりて】.mp3",
     "type": "vocabulary"
   },
@@ -14857,7 +14857,7 @@ export const flashcards = [
   {
     "display": "巨大",
     "reading": "きょだい",
-    "meaning": "きょだい",
+    "meaning": "Sangat besar",
     "audio": "/audio_jepang/巨大【きょだい】.mp3",
     "type": "vocabulary"
   },
@@ -14878,7 +14878,7 @@ export const flashcards = [
   {
     "display": "差別",
     "reading": "さべつ",
-    "meaning": "さべつ",
+    "meaning": "Diskriminasi",
     "audio": "/audio_jepang/差別【さべつ】.mp3",
     "type": "vocabulary"
   },
@@ -14920,7 +14920,7 @@ export const flashcards = [
   {
     "display": "市",
     "reading": "し",
-    "meaning": "し",
+    "meaning": "Kota",
     "audio": "/audio_jepang/市【し】.mp3",
     "type": "vocabulary"
   },
@@ -14941,14 +14941,14 @@ export const flashcards = [
   {
     "display": "布",
     "reading": "ぬの",
-    "meaning": "ぬの",
+    "meaning": "Kain",
     "audio": "/audio_jepang/布【ぬの】.mp3",
     "type": "vocabulary"
   },
   {
     "display": "布団",
     "reading": "ふとん",
-    "meaning": "ふとん",
+    "meaning": "Futon",
     "audio": "/audio_jepang/布団【ふとん】.mp3",
     "type": "vocabulary"
   },
@@ -14997,7 +14997,7 @@ export const flashcards = [
   {
     "display": "希望",
     "reading": "きぼう",
-    "meaning": "きぼう",
+    "meaning": "Harapan",
     "audio": "/audio_jepang/希望【きぼう】.mp3",
     "type": "vocabulary"
   },
@@ -15067,7 +15067,7 @@ export const flashcards = [
   {
     "display": "帰る",
     "reading": "かえる",
-    "meaning": "かえる",
+    "meaning": "Pulang",
     "audio": "/audio_jepang/帰る【かえる】.mp3",
     "type": "vocabulary"
   },
